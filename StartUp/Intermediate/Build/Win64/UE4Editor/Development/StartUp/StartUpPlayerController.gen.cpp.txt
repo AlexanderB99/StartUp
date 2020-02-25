@@ -1,0 +1,5 @@
+D:\startup\StartUp\StartUp\Intermediate\Build\Win64\UE4Editor\Development\StartUp\Definitions.StartUp.h
+D:\Unreal\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Unreal\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\startup\StartUp\StartUp\Source\StartUp/StartUpPlayerController.h
+d:\startup\startup\startup\intermediate\build\win64\ue4editor\inc\startup\StartUpPlayerController.generated.h
