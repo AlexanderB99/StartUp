@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "StartUp",
+			"Path": "D:\\startup\\StartUp\\StartUp\\Source\\StartUp.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "StartUpEditor",
+			"Path": "D:\\startup\\StartUp\\StartUp\\Source\\StartUpEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
