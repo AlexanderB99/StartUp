@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RealeaseGame",
+			"Path": "D:\\startup\\StartUp\\RealeaseGame\\Source\\RealeaseGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RealeaseGameEditor",
+			"Path": "D:\\startup\\StartUp\\RealeaseGame\\Source\\RealeaseGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
