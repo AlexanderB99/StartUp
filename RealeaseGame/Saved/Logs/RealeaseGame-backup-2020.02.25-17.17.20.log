@@ -1,0 +1,1175 @@
+﻿Log file open, 02/25/20 18:10:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: RealeaseGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.063572
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Warning: Incompatible or missing module: RealeaseGame
+Running E:/batman/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe Development Win64 -Project="E:/BaseDefenseGit/StartUp/RealeaseGame/RealeaseGame.uproject" -TargetType=Editor -Progress -NoHotReloadFromIDE
+Using 'git status' to determine working set for adaptive non-unity build (E:\BaseDefenseGit\StartUp).
+Creating makefile for RealeaseGameEditor (Build.version is newer)
+@progress push 5%
+Parsing headers for RealeaseGameEditor
+  Running UnrealHeaderTool "E:\BaseDefenseGit\StartUp\RealeaseGame\RealeaseGame.uproject" "E:\BaseDefenseGit\StartUp\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\RealeaseGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+Reflection code generated for RealeaseGameEditor in 8.4547128 seconds
+@progress pop
+Building RealeaseGameEditor...
+Using Visual Studio 2019 14.23.28107 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+Building 13 actions with 12 processes...
+  @progress 'Compiling C++ source code...' 0%
+  @progress 'Compiling C++ source code...' 8%
+  [1/13] Default.rc2
+  @progress 'Compiling C++ source code...' 15%
+  [2/13] SharedPCH.Engine.ShadowErrors.cpp
+  @progress 'Compiling C++ source code...' 23%
+  [3/13] RealeaseGame.cpp
+  @progress 'Compiling C++ source code...' 31%
+  [4/13] RealeaseGame.init.gen.cpp
+  @progress 'Compiling C++ source code...' 38%
+  [5/13] RealeaseGamePlayerController.gen.cpp
+  @progress 'Compiling C++ source code...' 46%
+  [6/13] RealeaseGameGameMode.gen.cpp
+  @progress 'Compiling C++ source code...' 54%
+  [7/13] RealeaseGameCharacter.gen.cpp
+  @progress 'Compiling C++ source code...' 62%
+  [8/13] RealeaseGameGameMode.cpp
+  @progress 'Compiling C++ source code...' 69%
+  [9/13] RealeaseGamePlayerController.cpp
+  @progress 'Compiling C++ source code...' 77%
+  [10/13] RealeaseGameCharacter.cpp
+  @progress 'Compiling C++ source code...' 85%
+  [11/13] UE4Editor-RealeaseGame.lib
+     Creating library E:\BaseDefenseGit\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\UE4Editor-RealeaseGame.lib and object E:\BaseDefenseGit\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\UE4Editor-RealeaseGame.exp
+  @progress 'Compiling C++ source code...' 92%
+  [12/13] UE4Editor-RealeaseGame.dll
+     Creating library E:\BaseDefenseGit\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\UE4Editor-RealeaseGame.suppressed.lib and object E:\BaseDefenseGit\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\UE4Editor-RealeaseGame.suppressed.exp
+  @progress 'Compiling C++ source code...' 100%
+  [13/13] RealeaseGameEditor.target
+Total time in Parallel executor: 29.42 seconds
+Total execution time: 58.07 seconds
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=TheodorIrimia -epicuserid=c7540a8602ed4a7981cb8d10bf19e64b -epiclocale=en
+LogInit: Base Directory: E:/batman/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/BaseDefenseGit/StartUp/RealeaseGame/Saved/Config/Windows/Engine.ini]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.02.25-17.11.15:846][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/BaseDefenseGit/StartUp/RealeaseGame/Saved/Config/Windows/Engine.ini]
+[2020.02.25-17.11.15:847][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/BaseDefenseGit/StartUp/RealeaseGame/Saved/Config/Windows/Engine.ini]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/BaseDefenseGit/StartUp/RealeaseGame/Saved/Config/Windows/Engine.ini]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.25-17.11.15:847][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.02.25-17.11.15:848][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.25-17.11.15:848][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.25-17.11.15:848][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.25-17.11.15:848][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.25-17.11.15:848][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.25-17.11.15:848][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.25-17.11.15:848][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/BaseDefenseGit/StartUp/RealeaseGame/Saved/Config/Windows/Engine.ini]
+[2020.02.25-17.11.15:848][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/BaseDefenseGit/StartUp/RealeaseGame/Saved/Config/Windows/Engine.ini]
+[2020.02.25-17.11.15:850][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/BaseDefenseGit/StartUp/RealeaseGame/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/BaseDefenseGit/StartUp/RealeaseGame/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/BaseDefenseGit/StartUp/RealeaseGame/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/BaseDefenseGit/StartUp/RealeaseGame/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/BaseDefenseGit/StartUp/RealeaseGame/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/BaseDefenseGit/StartUp/RealeaseGame/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.25-17.11.15:850][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.25-17.11.15:851][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.25-17.11.15:851][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.25-17.11.15:851][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.25-17.11.15:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.25-17.11.15:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.25-17.11.15:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.25-17.11.15:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.25-17.11.15:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.25-17.11.15:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.25-17.11.15:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.25-17.11.15:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.25-17.11.15:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.25-17.11.15:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.25-17.11.15:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.25-17.11.15:851][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/BaseDefenseGit/StartUp/RealeaseGame/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-17.11.15:851][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.25-17.11.15:851][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.25-17.11.15:851][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/BaseDefenseGit/StartUp/RealeaseGame/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-17.11.15:851][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.25-17.11.15:851][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.25-17.11.15:851][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.25-17.11.15:851][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.25-17.11.15:851][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.25-17.11.15:873][  0]LogHAL: Display: Platform has ~ 16 GB [17014095872 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.25-17.11.15:873][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.25-17.11.15:873][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/BaseDefenseGit/StartUp/RealeaseGame/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/BaseDefenseGit/StartUp/RealeaseGame/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/BaseDefenseGit/StartUp/RealeaseGame/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/BaseDefenseGit/StartUp/RealeaseGame/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/BaseDefenseGit/StartUp/RealeaseGame/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.25-17.11.15:873][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/BaseDefenseGit/StartUp/RealeaseGame/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/BaseDefenseGit/StartUp/RealeaseGame/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/BaseDefenseGit/StartUp/RealeaseGame/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.25-17.11.15:874][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/BaseDefenseGit/StartUp/RealeaseGame/Saved/Config/Windows/Engine.ini]
+[2020.02.25-17.11.15:885][  0]LogInit: Computer: DESKTOP-DDF4DFO
+[2020.02.25-17.11.15:885][  0]LogInit: User: theod
+[2020.02.25-17.11.15:885][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.02.25-17.11.15:885][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.25-17.11.15:885][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.02.25-17.11.15:885][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.25-17.11.15:885][  0]LogMemory: Process Physical Memory: 110.00 MB used, 110.00 MB peak
+[2020.02.25-17.11.15:885][  0]LogMemory: Process Virtual Memory: 102.12 MB used, 102.12 MB peak
+[2020.02.25-17.11.15:885][  0]LogMemory: Physical Memory: 13479.77 MB used,  2746.13 MB free, 16225.91 MB total
+[2020.02.25-17.11.15:885][  0]LogMemory: Virtual Memory: 5198.39 MB used,  134212528.00 MB free, 134217728.00 MB total
+[2020.02.25-17.11.15:890][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.02.25-17.11.16:444][  0]LogInit: Using OS detected language (en-US).
+[2020.02.25-17.11.16:444][  0]LogInit: Using OS detected locale (en-US).
+[2020.02.25-17.11.16:449][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.25-17.11.17:119][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.25-17.11.17:358][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.25-17.11.17:358][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.25-17.11.17:789][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.25-17.11.17:790][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.02.25-17.11.17:790][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.02.25-17.11.17:790][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.25-17.11.17:910][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2020.02.25-17.11.17:910][  0]LogD3D11RHI:       5980/0/8112 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.02.25-17.11.17:942][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.02.25-17.11.17:942][  0]LogD3D11RHI:       128/0/8112 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.02.25-17.11.17:949][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.25-17.11.17:949][  0]LogD3D11RHI:       0/0/8112 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.25-17.11.17:949][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.25-17.11.17:979][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.25-17.11.17:979][  0]LogD3D11RHI:     GPU DeviceId: 0x1f11 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.25-17.11.17:979][  0]LogWindows: EnumDisplayDevices:
+[2020.02.25-17.11.17:979][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.02.25-17.11.17:980][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.02.25-17.11.17:980][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.02.25-17.11.17:980][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.02.25-17.11.17:980][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.02.25-17.11.17:980][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.02.25-17.11.17:981][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.02.25-17.11.17:981][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.02.25-17.11.17:981][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2020.02.25-17.11.17:981][  0]LogD3D11RHI:   Driver Version: 442.19 (internal:26.21.14.4219, unified:442.19)
+[2020.02.25-17.11.17:981][  0]LogD3D11RHI:      Driver Date: 1-29-2020
+[2020.02.25-17.11.17:981][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2020.02.25-17.11.18:024][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.02.25-17.11.18:024][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.25-17.11.18:076][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.02.25-17.11.18:346][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.02.25-17.11.18:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.02.25-17.11.18:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.02.25-17.11.18:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.02.25-17.11.18:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.02.25-17.11.18:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.02.25-17.11.18:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.02.25-17.11.18:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.02.25-17.11.18:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.02.25-17.11.18:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.02.25-17.11.18:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.25-17.11.18:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.02.25-17.11.18:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.02.25-17.11.18:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.25-17.11.18:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.25-17.11.18:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.25-17.11.18:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.25-17.11.18:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.02.25-17.11.18:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.02.25-17.11.18:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.02.25-17.11.18:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.02.25-17.11.18:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.25-17.11.18:566][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.02.25-17.11.18:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.02.25-17.11.18:581][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.02.25-17.11.18:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.02.25-17.11.18:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.02.25-17.11.18:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.02.25-17.11.18:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.02.25-17.11.18:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.02.25-17.11.18:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.02.25-17.11.18:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.25-17.11.18:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.02.25-17.11.18:813][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.02.25-17.11.18:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.02.25-17.11.18:825][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.25-17.11.18:885][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.25-17.11.19:339][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../BaseDefenseGit/StartUp/RealeaseGame/Intermediate/Shaders/WorkingDirectory/16872/).
+[2020.02.25-17.11.19:339][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/theod/AppData/Local/Temp/UnrealShaderWorkingDir/E6AC06204ED44B7B768775B9AB0FBFF6/'.
+[2020.02.25-17.11.19:348][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.25-17.11.19:348][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.25-17.11.19:348][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.25-17.11.20:658][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.25-17.11.20:766][  0]LogDerivedDataCache: Loaded boot cache 0.11s 79MB C:/Users/theod/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.25-17.11.20:766][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/theod/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.02.25-17.11.20:766][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../BaseDefenseGit/StartUp/RealeaseGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.25-17.11.20:766][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.25-17.11.20:766][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../BaseDefenseGit/StartUp/RealeaseGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.25-17.11.20:767][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.25-17.11.20:795][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.25-17.11.20:796][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.25-17.11.20:796][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.25-17.11.20:796][  0]LogDerivedDataCache: Using Local data cache path C:/Users/theod/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.25-17.11.20:797][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.25-17.11.20:797][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.25-17.11.20:817][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.25-17.11.20:819][  0]LogSlate: Using FreeType 2.10.0
+[2020.02.25-17.11.20:870][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.25-17.11.21:558][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2020.02.25-17.11.22:754][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.25-17.11.23:295][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.25-17.11.23:295][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.25-17.11.23:295][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.25-17.11.23:295][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.25-17.11.23:295][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.25-17.11.23:360][  0]LogNetVersion: RealeaseGame 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1803780436)
+[2020.02.25-17.11.36:878][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.069708 seconds
+[2020.02.25-17.11.36:886][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.02.25-17.11.36:886][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.02.25-17.11.36:886][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.25-17.11.39:542][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.25-17.11.39:563][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.25-17.11.39:794][  0]LogMaterial: Display: Missing cached shader map for material M_Cursor_Decal, compiling. 
+[2020.02.25-17.11.41:560][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 34
+[2020.02.25-17.11.41:560][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 30
+[2020.02.25-17.11.41:560][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 26
+[2020.02.25-17.11.41:560][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 22
+[2020.02.25-17.11.41:560][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2020.02.25-17.11.41:560][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2020.02.25-17.11.41:560][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2020.02.25-17.11.41:560][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.02.25-17.11.41:560][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 2
+[2020.02.25-17.11.45:082][  0]LogTexture: Display: Building textures: T_ML_Aluminum01_N (BC5, 512X512)
+[2020.02.25-17.11.45:082][  0]LogTexture: Display: Building textures: T_ML_Aluminum01 (AutoDXT, 512X512)
+[2020.02.25-17.11.45:082][  0]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_D (AutoDXT, 512X512)
+[2020.02.25-17.11.45:082][  0]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_N (BC5, 512X512)
+[2020.02.25-17.11.45:082][  0]LogTexture: Display: Building textures: T_UE4_Mannequin_Mobile_M (AutoDXT, 1024X1024)
+[2020.02.25-17.11.45:082][  0]LogTexture: Display: Building textures: T_UE4_Mannequin_Mobile_N (BC5, 1024X1024)
+[2020.02.25-17.11.45:202][  0]LogTexture: Display: Building textures: testlp_lambert1_Roughness (AutoDXT, 512X512)
+[2020.02.25-17.11.45:202][  0]LogTexture: Display: Building textures: testlp_lambert1_AO (AutoDXT, 512X512)
+[2020.02.25-17.11.45:202][  0]LogTexture: Display: Building textures: testlp_lambert1_Emissive (AutoDXT, 512X512)
+[2020.02.25-17.11.45:202][  0]LogTexture: Display: Building textures: testlp_lambert1_Metallic (AutoDXT, 512X512)
+[2020.02.25-17.11.45:202][  0]LogTexture: Display: Building textures: curbUVed_DefaultMaterial_AO (AutoDXT, 512X512)
+[2020.02.25-17.11.45:202][  0]LogTexture: Display: Building textures: testlp_lambert1_BaseColor (AutoDXT, 512X512)
+[2020.02.25-17.11.45:202][  0]LogTexture: Display: Building textures: curbUVed_DefaultMaterial_Roughness (AutoDXT, 512X512)
+[2020.02.25-17.11.45:202][  0]LogTexture: Display: Building textures: testlp_lambert1_Normal (BC5, 512X512)
+[2020.02.25-17.11.45:202][  0]LogTexture: Display: Building textures: curbUVed_DefaultMaterial_Emissive (AutoDXT, 512X512)
+[2020.02.25-17.11.45:202][  0]LogTexture: Display: Building textures: curbUVed_DefaultMaterial_Metallic (AutoDXT, 512X512)
+[2020.02.25-17.11.45:202][  0]LogTexture: Display: Building textures: curbUVed_DefaultMaterial_Normal (BC5, 512X512)
+[2020.02.25-17.11.45:202][  0]LogTexture: Display: Building textures: curbUVed_DefaultMaterial_BaseColor (AutoDXT, 512X512)
+[2020.02.25-17.11.45:202][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End
+[2020.02.25-17.11.45:376][  0]LogTexture: Display: Building textures: golem_initialShadingGroup_Metallic (AutoDXT, 1024X1024)
+[2020.02.25-17.11.45:376][  0]LogTexture: Display: Building textures: golem_initialShadingGroup_Roughness (AutoDXT, 1024X1024)
+[2020.02.25-17.11.45:376][  0]LogTexture: Display: Building textures: crystal_base_lambert1_Roughness (AutoDXT, 512X512)
+[2020.02.25-17.11.45:376][  0]LogTexture: Display: Building textures: crystal_base_lambert1_Metallic (AutoDXT, 512X512)
+[2020.02.25-17.11.45:376][  0]LogTexture: Display: Building textures: golem_initialShadingGroup_BaseColor (AutoDXT, 1024X1024)
+[2020.02.25-17.11.45:376][  0]LogTexture: Display: Building textures: crystal_base_lambert1_Normal (BC5, 512X512)
+[2020.02.25-17.11.45:376][  0]LogTexture: Display: Building textures: golem_initialShadingGroup_Normal (BC5, 1024X1024)
+[2020.02.25-17.11.45:376][  0]LogTexture: Display: Building textures: crystal_base_lambert1_Emissive (AutoDXT, 512X512)
+[2020.02.25-17.11.45:376][  0]LogTexture: Display: Building textures: golem_initialShadingGroup_Emissive (AutoDXT, 1024X1024)
+[2020.02.25-17.11.45:376][  0]LogTexture: Display: Building textures: crystal_base_lambert1_BaseColor (AutoDXT, 512X512)
+[2020.02.25-17.11.45:376][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.25-17.11.45:416][  0]LogTexture: Display: Building textures: crystal_base_lambert1_AO (AutoDXT, 512X512)
+[2020.02.25-17.11.45:416][  0]LogStaticMesh: Building static mesh crystal_base...
+[2020.02.25-17.11.45:773][  0]LogStaticMesh: Built static mesh [0.36s] /Game/Geometry/ImportedGeometry/crystal_base.crystal_base
+[2020.02.25-17.11.45:990][  0]LogStaticMesh: Building static mesh golem...
+[2020.02.25-17.11.46:033][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Geometry/ImportedGeometry/golem.golem
+[2020.02.25-17.11.46:039][  0]LogStaticMesh: Building static mesh TurretTop...
+[2020.02.25-17.11.46:052][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/TurretTop.TurretTop
+[2020.02.25-17.11.46:054][  0]LogStaticMesh: Building static mesh TurretBase...
+[2020.02.25-17.11.46:064][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/TurretBase.TurretBase
+[2020.02.25-17.11.46:068][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2020.02.25-17.11.46:068][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.25-17.11.46:116][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+[2020.02.25-17.11.46:116][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun) using current/default (AnimCompress_RemoveLinearKeys_7) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.25-17.11.46:134][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2020.02.25-17.11.46:134][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.25-17.11.46:200][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2020.02.25-17.11.46:200][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start) using current/default (AnimCompress_RemoveLinearKeys_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.25-17.11.46:229][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2020.02.25-17.11.46:230][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop) using current/default (AnimCompress_RemoveLinearKeys_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.25-17.11.46:258][  0]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.02.25-17.11.46:475][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 98
+[2020.02.25-17.11.46:475][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 88
+[2020.02.25-17.11.46:475][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 78
+[2020.02.25-17.11.46:475][  0]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.02.25-17.11.46:545][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 68
+[2020.02.25-17.11.46:609][  0]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2020.02.25-17.11.46:659][  0]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2020.02.25-17.11.46:671][  0]LogMaterial: Display: Missing cached shader map for material M_WallStraight, compiling. 
+[2020.02.25-17.11.46:740][  0]LogStaticMesh: Building static mesh testlp...
+[2020.02.25-17.11.46:772][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/ImportedGeometry/testlp.testlp
+[2020.02.25-17.11.46:786][  0]LogMaterial: Display: Missing cached shader map for material M_WallCurve, compiling. 
+[2020.02.25-17.11.46:815][  0]LogStaticMesh: Building static mesh Corner...
+[2020.02.25-17.11.46:848][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/ImportedGeometry/Corner.Corner
+[2020.02.25-17.11.46:859][  0]LogMaterial: Display: Missing cached shader map for material RedMaterial, compiling. 
+[2020.02.25-17.11.46:897][  0]LogMaterial: Display: Missing cached shader map for material Default, compiling. 
+[2020.02.25-17.11.46:950][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 230
+[2020.02.25-17.11.46:950][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 259
+[2020.02.25-17.11.46:950][  0]LogMaterial: Display: Missing cached shader map for material M_Golem, compiling. 
+[2020.02.25-17.11.47:030][  0]LogStaticMesh: Building static mesh Projectile...
+[2020.02.25-17.11.47:046][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 273
+[2020.02.25-17.11.47:046][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Projectile.Projectile
+[2020.02.25-17.11.47:060][  0]LogMaterial: Display: Missing cached shader map for material CrystalMaterial, compiling. 
+[2020.02.25-17.11.47:585][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 287
+[2020.02.25-17.11.47:586][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 277
+[2020.02.25-17.11.48:276][  0]SourceControl: Source control is disabled
+[2020.02.25-17.11.48:276][  0]SourceControl: Source control is disabled
+[2020.02.25-17.11.48:530][  0]SourceControl: Source control is disabled
+[2020.02.25-17.11.48:535][  0]SourceControl: Source control is disabled
+[2020.02.25-17.11.48:562][  0]SourceControl: Source control is disabled
+[2020.02.25-17.11.49:945][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 267
+[2020.02.25-17.11.49:945][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 257
+[2020.02.25-17.11.49:945][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 247
+[2020.02.25-17.11.49:945][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 237
+[2020.02.25-17.11.50:757][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 227
+[2020.02.25-17.11.50:757][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.25-17.11.50:963][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 217
+[2020.02.25-17.11.50:963][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.25-17.11.50:963][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.25-17.11.51:467][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 207
+[2020.02.25-17.11.51:467][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 197
+[2020.02.25-17.11.51:908][  0]LogOcInput: OculusInput pre-init called
+[2020.02.25-17.11.52:008][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.02.25-17.11.52:008][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.02.25-17.11.52:506][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 187
+[2020.02.25-17.11.55:224][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 177
+[2020.02.25-17.11.55:224][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 167
+[2020.02.25-17.11.55:224][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 157
+[2020.02.25-17.11.55:224][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 147
+[2020.02.25-17.11.55:224][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 137
+[2020.02.25-17.11.55:316][  0]LogAutomationTest: Warning: Smoke tests took > 2s to run: 2.16s
+[2020.02.25-17.11.55:521][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 127
+[2020.02.25-17.11.55:521][  0]LogEngine: Initializing Engine...
+[2020.02.25-17.11.55:699][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 117
+[2020.02.25-17.11.55:699][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 107
+[2020.02.25-17.11.55:699][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.25-17.11.55:842][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.052 s
+[2020.02.25-17.11.56:333][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 97
+[2020.02.25-17.11.57:151][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.25-17.11.57:910][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 87
+[2020.02.25-17.11.57:911][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 77
+[2020.02.25-17.11.57:911][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.25-17.11.58:718][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.25-17.11.58:718][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.25-17.11.58:718][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.25-17.11.58:718][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.25-17.11.58:718][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.25-17.11.58:718][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.25-17.11.58:718][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.25-17.11.58:728][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.25-17.11.58:750][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.25-17.11.58:751][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.25-17.11.58:853][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.25-17.11.58:853][  0]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.02.25-17.11.58:853][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.02.25-17.11.58:853][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.25-17.11.58:853][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.25-17.11.58:853][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.25-17.11.58:853][  0]LogAudioMixer: Display: Channel Order:
+[2020.02.25-17.11.58:853][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.25-17.11.58:853][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.02.25-17.11.59:129][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.02.25-17.11.59:193][  0]LogInit: FAudioDevice initialized.
+[2020.02.25-17.11.59:286][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.25-17.11.59:392][  0]LogDerivedDataCache: Saved boot cache 0.11s 90MB C:/Users/theod/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.25-17.11.59:419][  0]LogInit: Texture streaming: Enabled
+[2020.02.25-17.11.59:895][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.25-17.11.59:914][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.02.25-17.11.59:950][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.02.25-17.12.00:940][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 68
+[2020.02.25-17.12.00:941][  0]LogInit: Transaction tracking system initialized
+[2020.02.25-17.12.02:045][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 60
+[2020.02.25-17.12.02:046][  0]BlueprintLog: New page: Editor Load
+[2020.02.25-17.12.03:177][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 53
+[2020.02.25-17.12.03:177][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 47
+[2020.02.25-17.12.04:277][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 41
+[2020.02.25-17.12.04:277][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 36
+[2020.02.25-17.12.04:277][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 31
+[2020.02.25-17.12.04:277][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 27
+[2020.02.25-17.12.04:691][  0]LocalizationService: Localization service is disabled
+[2020.02.25-17.12.05:718][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 23
+[2020.02.25-17.12.05:718][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2020.02.25-17.12.06:927][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 17
+[2020.02.25-17.12.06:927][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2020.02.25-17.12.06:927][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.02.25-17.12.08:128][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2020.02.25-17.12.08:128][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.02.25-17.12.08:128][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.02.25-17.12.08:128][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2020.02.25-17.12.08:128][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 5
+[2020.02.25-17.12.08:128][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2020.02.25-17.12.08:128][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2020.02.25-17.12.08:128][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.02.25-17.12.08:755][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2020.02.25-17.12.08:755][  0]LogFileCache: Scanning file cache for directory 'E:/BaseDefenseGit/StartUp/RealeaseGame/Content/' took 0.01s
+[2020.02.25-17.12.08:755][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.25-17.12.08:755][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.25-17.12.11:546][  0]SourceControl: Source control is disabled
+[2020.02.25-17.12.11:661][  0]Cmd: MAP LOAD FILE="../../../../../BaseDefenseGit/StartUp/RealeaseGame/Content/TopDownCPP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.25-17.12.11:676][  0]LightingResults: New page: Lighting Build
+[2020.02.25-17.12.11:839][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-17.12.11:926][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-17.12.11:940][  0]MapCheck: New page: Map Check
+[2020.02.25-17.12.11:940][  0]LightingResults: New page: Lighting Build
+[2020.02.25-17.12.12:576][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.02.25-17.12.13:324][  0]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2020.02.25-17.12.13:664][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2020.02.25-17.12.13:664][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2020.02.25-17.12.13:664][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2020.02.25-17.12.13:664][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2020.02.25-17.12.13:664][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2020.02.25-17.12.13:664][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2020.02.25-17.12.13:664][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2020.02.25-17.12.13:664][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2020.02.25-17.12.13:693][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.25-17.12.14:468][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.25-17.12.14:824][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.02.25-17.12.14:835][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.25-17.12.14:849][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 13.182ms to complete.
+[2020.02.25-17.12.14:849][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 3.265
+[2020.02.25-17.12.16:795][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-17.12.16:812][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-17.12.16:816][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-17.12.16:821][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-17.12.17:006][  0]LogCollectionManager: Loaded 0 collections in 0.001234 seconds
+[2020.02.25-17.12.17:269][  0]LogFileCache: Scanning file cache for directory 'E:/BaseDefenseGit/StartUp/RealeaseGame/Saved/Collections/' took 0.00s
+[2020.02.25-17.12.17:269][  0]LogFileCache: Scanning file cache for directory 'E:/BaseDefenseGit/StartUp/RealeaseGame/Content/Developers/theod/Collections/' took 0.00s
+[2020.02.25-17.12.17:270][  0]LogFileCache: Scanning file cache for directory 'E:/BaseDefenseGit/StartUp/RealeaseGame/Content/Collections/' took 0.00s
+[2020.02.25-17.12.17:270][  0]LogContentBrowser: Native class hierarchy populated in 0.0449 seconds. Added 3018 classes and 719 folders.
+[2020.02.25-17.12.17:473][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.02.25-17.12.18:270][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.02.25-17.12.18:319][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.02.25-17.12.19:173][  0]LogSlate: Took 0.026880 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.25-17.12.19:205][  0]LogSlate: Took 0.021330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.25-17.12.19:278][  0]LogSlate: Took 0.027700 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.25-17.12.19:906][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.02.25-17.12.20:340][  0]LogSlate: Took 0.022474 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.25-17.12.20:645][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.02.25-17.12.20:645][  0]LogLoad: (Engine Initialization) Total time: 151.83 seconds
+[2020.02.25-17.12.20:645][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.25-17.12.21:064][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.25-17.12.21:369][  1]LogAssetRegistry: Asset discovery search completed in 59.8122 seconds
+[2020.02.25-17.12.21:373][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000018 seconds (updated 0 objects)
+[2020.02.25-17.12.26:823][292]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-17.12.26:863][292]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.25-17.12.26:911][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-17.12.27:003][292]PIE: New page: PIE session: TopDownExampleMap (Feb 25, 2020, 7:12:26 PM)
+[2020.02.25-17.12.27:011][292]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.02.25-17.12.27:025][292]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.02.25-17.12.27:035][292]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.25-17.12.27:092][292]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056868s)
+[2020.02.25-17.12.27:109][292]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.25-17.12.27:122][292]LogPlayLevel: PIE: World Init took: (0.029768s)
+[2020.02.25-17.12.27:122][292]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.086863s)
+[2020.02.25-17.12.27:150][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.02.25-17.12.27:162][292]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.25-17.12.27:162][292]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.25-17.12.27:162][292]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.25-17.12.27:162][292]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.25-17.12.27:162][292]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.25-17.12.27:162][292]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.25-17.12.27:162][292]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.25-17.12.27:162][292]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.25-17.12.27:162][292]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.25-17.12.27:162][292]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.25-17.12.27:168][292]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.25-17.12.27:168][292]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.02.25-17.12.27:168][292]LogAudioMixer: Display: Is Default: Yes
+[2020.02.25-17.12.27:168][292]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.25-17.12.27:168][292]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.25-17.12.27:168][292]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.25-17.12.27:168][292]LogAudioMixer: Display: Channel Order:
+[2020.02.25-17.12.27:168][292]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.25-17.12.27:168][292]LogAudioMixer: Display: 1: FrontRight
+[2020.02.25-17.12.27:219][292]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.02.25-17.12.27:236][292]LogInit: FAudioDevice initialized.
+[2020.02.25-17.12.27:267][292]LogLoad: Game class is 'RealeaseGameGameMode'
+[2020.02.25-17.12.27:382][292]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.02.25-18.12.27
+[2020.02.25-17.12.27:394][292]LogWorld: Bringing up level for play took: 0.012850
+[2020.02.25-17.12.27:395][292]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2020.02.25-17.12.27:604][292]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.02.25-17.12.27:865][292]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 1.294
+[2020.02.25-17.12.27:866][292]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.25-17.12.31:751][502]LogScript: Warning: Attempted to access Golem via property Golem, but Golem is pending kill
+	Golem_C /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Golem_2
+	Function /Game/TopDownCPP/Blueprints/Golem.Golem_C:Move Golem:01B0
+[2020.02.25-17.12.31:778][502]PIE: Error: Blueprint Runtime Error: "Attempted to access Golem via property Golem, but Golem is pending kill". Blueprint:  Golem Function:  Move Golem Graph:  Move Golem Node:  Set direction
+[2020.02.25-17.12.44:161][237]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-17.12.44:162][237]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-17.12.44:162][237]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.25-17.12.44:176][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-17.12.44:176][237]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.25-17.12.44:185][237]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-17.12.44:197][237]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-17.12.44:204][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-17.12.44:217][237]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-17.12.44:217][237]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.25-17.12.44:233][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-17.12.44:275][237]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-17.12.44:291][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-17.12.44:380][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.02.25-17.12.44:595][238]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.02.25-17.12.46:260][336]LogSlate: Window 'Message Log' being destroyed
+[2020.02.25-17.12.46:265][336]LogSlate: Window 'Message Log' being destroyed
+[2020.02.25-17.12.49:069][504]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-17.12.49:083][504]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.25-17.12.49:083][504]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-17.12.49:084][504]PIE: New page: PIE session: TopDownExampleMap (Feb 25, 2020, 7:12:49 PM)
+[2020.02.25-17.12.49:084][504]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.25-17.12.49:095][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011251s)
+[2020.02.25-17.12.49:096][504]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.25-17.12.49:129][504]LogPlayLevel: PIE: World Init took: (0.033374s)
+[2020.02.25-17.12.49:129][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.044818s)
+[2020.02.25-17.12.49:157][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.02.25-17.12.49:158][504]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.25-17.12.49:158][504]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.25-17.12.49:159][504]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.25-17.12.49:159][504]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.25-17.12.49:159][504]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.25-17.12.49:159][504]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.25-17.12.49:159][504]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.25-17.12.49:159][504]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.25-17.12.49:159][504]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.25-17.12.49:159][504]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.25-17.12.49:165][504]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.25-17.12.49:165][504]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.02.25-17.12.49:165][504]LogAudioMixer: Display: Is Default: Yes
+[2020.02.25-17.12.49:165][504]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.25-17.12.49:165][504]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.25-17.12.49:165][504]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.25-17.12.49:165][504]LogAudioMixer: Display: Channel Order:
+[2020.02.25-17.12.49:165][504]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.25-17.12.49:165][504]LogAudioMixer: Display: 1: FrontRight
+[2020.02.25-17.12.49:222][504]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.02.25-17.12.49:223][504]LogInit: FAudioDevice initialized.
+[2020.02.25-17.12.49:229][504]LogLoad: Game class is 'RealeaseGameGameMode'
+[2020.02.25-17.12.49:231][504]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.02.25-18.12.49
+[2020.02.25-17.12.49:231][504]LogWorld: Bringing up level for play took: 0.001138
+[2020.02.25-17.12.49:231][504]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.02.25-17.12.49:234][504]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0.663
+[2020.02.25-17.12.49:234][504]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.25-17.12.53:065][733]LogScript: Warning: Attempted to access Golem via property Golem, but Golem is pending kill
+	Golem_C /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Golem_2
+	Function /Game/TopDownCPP/Blueprints/Golem.Golem_C:Move Golem:01B0
+[2020.02.25-17.12.53:065][733]PIE: Error: Blueprint Runtime Error: "Attempted to access Golem via property Golem, but Golem is pending kill". Blueprint:  Golem Function:  Move Golem Graph:  Move Golem Node:  Set direction
+[2020.02.25-17.13.22:932][498]LogCharacterMovement: TopDownCharacter_C_0 is stuck and failed to move! Velocity: X=2.86 Y=34.01 Z=0.00 Location: X=294.57 Y=-200.42 Z=265.57 Normal: X=-0.70 Y=-0.71 Z=-0.00 PenetrationDepth:0.977 Actor:Golem_C_8 Component:Golem BoneName:None (0 other events since notify)
+[2020.02.25-17.13.54:172][354]LogCharacterMovement: TopDownCharacter_C_0 is stuck and failed to move! Velocity: X=66.48 Y=15.53 Z=0.00 Location: X=-576.11 Y=360.24 Z=265.58 Normal: X=-0.24 Y=-0.97 Z=-0.00 PenetrationDepth:0.783 Actor:Golem_C_5 Component:Golem BoneName:None (2 other events since notify)
+[2020.02.25-17.14.05:491][ 33]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-17.14.05:491][ 33]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-17.14.05:491][ 33]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.25-17.14.05:536][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-17.14.05:536][ 33]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.25-17.14.05:536][ 33]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-17.14.05:537][ 33]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-17.14.05:547][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-17.14.05:554][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-17.14.05:573][ 33]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.25-17.14.05:577][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-17.14.05:604][ 33]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-17.14.05:611][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-17.14.05:664][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.02.25-17.14.05:780][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.02.25-17.14.11:665][338]LogSlate: Window 'Message Log' being destroyed
+[2020.02.25-17.14.11:675][338]LogSlate: Window 'Message Log' being destroyed
+[2020.02.25-17.14.15:301][553]MapCheck: New page: Map Check
+[2020.02.25-17.14.15:553][553]Cmd: MAP REBUILD ALLVISIBLE
+[2020.02.25-17.14.15:556][553]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.02.25-17.14.15:742][553]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=false
+[2020.02.25-17.14.15:909][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.02.25-17.14.15:980][553]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.25-17.14.16:013][553]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2020.02.25-17.14.16:013][553]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2020.02.25-17.14.16:013][553]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.25-17.14.16:025][553]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.25-17.14.16:038][553]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.25-17.14.16:051][553]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2020.02.25-17.14.16:051][553]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2020.02.25-17.14.16:051][553]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2020.02.25-17.14.16:051][553]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.02.25-17.14.16:051][553]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.25-17.14.16:066][553]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.25-17.14.16:082][553]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2020.02.25-17.14.16:082][553]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2020.02.25-17.14.16:082][553]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.25-17.14.16:097][553]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.25-17.14.16:112][553]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.25-17.14.16:127][553]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.25-17.14.18:309][553]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2020.02.25-17.14.18:309][553]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2020.02.25-17.14.18:309][553]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2020.02.25-17.14.18:309][553]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.02.25-17.14.18:309][553]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2020.02.25-17.14.18:309][553]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2020.02.25-17.14.18:309][553]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2020.02.25-17.14.18:309][553]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2020.02.25-17.14.18:309][553]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2020.02.25-17.14.18:309][553]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.02.25-17.14.18:309][553]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2020.02.25-17.14.18:309][553]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2020.02.25-17.14.18:309][553]TextureStreamingBuild: Display: Compiling optional shaders took 2.390 seconds.
+[2020.02.25-17.14.18:391][553]LogLevel: Display: Export Material TexCoord Scales took 0.081 seconds.
+[2020.02.25-17.14.18:429][553]TextureStreamingBuild: Display: Build Texture Streaming took 0.029 seconds.
+[2020.02.25-17.14.18:455][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.02.25-17.14.18:571][553]LightingResults: New page: Lighting Build - Feb 25, 2020, 7:14:18 PM
+[2020.02.25-17.14.18:811][553]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.25-17.14.19:124][553]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.25-17.14.19:177][553]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.25-17.14.20:217][553]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.25-17.14.20:217][553]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16872
+[2020.02.25-17.14.22:808][553]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.25-17.14.22:808][553]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.25-17.14.22:808][553]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.25-17.14.22:808][553]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.25-17.14.22:808][553]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.25-17.14.23:093][553]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.02.25-17.14.23:094][553]MapCheck: New page: TopDownExampleMap - Feb 25, 2020, 7:14:23 PM
+[2020.02.25-17.14.23:101][553]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2020.02.25-17.14.23:121][553]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 27.659ms to complete.
+[2020.02.25-17.14.23:135][553]LogEditorBuildUtils: Build time 0:07
+[2020.02.25-17.14.23:584][554]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Clay_Beveled, compiling. 
+[2020.02.25-17.14.23:600][554]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2020.02.25-17.14.23:600][554]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2020.02.25-17.14.23:600][554]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Clay_Beveled, compiling. 
+[2020.02.25-17.14.23:633][554]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.02.25-17.14.23:633][554]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.02.25-17.14.23:658][555]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Glass, compiling. 
+[2020.02.25-17.14.23:678][555]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2020.02.25-17.14.23:678][555]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.02.25-17.14.23:678][555]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Glass, compiling. 
+[2020.02.25-17.14.23:704][556]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.02.25-17.14.23:704][556]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.02.25-17.14.24:404][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.02.25-17.14.27:245][705]Job is a success!
+[2020.02.25-17.14.27:360][706]LogSlate: Took 0.016590 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.25-17.14.27:449][706]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.033s
+[2020.02.25-17.14.27:449][706]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.02.25-17.14.27:450][706]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb
+[2020.02.25-17.14.27:450][706]LogVolumetricLightmapImport:      Bricks at depth
+[2020.02.25-17.14.27:450][706]LogVolumetricLightmapImport:          0: 2.9% covering 100.0% of volume
+[2020.02.25-17.14.27:450][706]LogVolumetricLightmapImport:          1: 11.4% covering 6.3% of volume
+[2020.02.25-17.14.27:450][706]LogVolumetricLightmapImport:          2: 85.7% covering 0.7% of volume
+[2020.02.25-17.14.27:450][706]LogVolumetricLightmapImport:      Bricks in each level
+[2020.02.25-17.14.27:450][706]LogVolumetricLightmapImport:          TopDownExampleMap 			 35 bricks 	 100.0% (Persistent Level)
+[2020.02.25-17.14.27:801][706]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2020.02.25-17.14.27:802][706]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.02.25-17.14.27:802][706]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.02.25-17.14.27:802][706]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2020.02.25-17.14.27:802][706]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.02.25-17.14.27:802][706]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.02.25-17.14.27:802][706]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.02.25-17.14.27:876][706]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X512)
+[2020.02.25-17.14.27:877][706]Lightmass on DESKTOP-DDF4DFO: 2.87 sec total, 138 ms importing, 20 ms setup, 395 ms photons, 2.23 sec processing, 0 ms extra exporting [6/6 mappings]. Threads: 24.5 sec total, 3.60 sec processing.
+[2020.02.25-17.14.27:877][706]LogStaticLightingSystem: TopDownExampleMap_BuiltData storing lightmap data for 6 meshes in 2 LightmapResourceClusters (3.0 Meshes per cluster).
+[2020.02.25-17.14.27:914][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.02.25-17.14.27:968][706]LogStaticLightingSystem: Illumination: 9.40 sec (138 ms encoding lightmaps, 132 ms encoding shadowmaps)
+[2020.02.25-17.14.27:968][706]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.02.25-17.14.27:968][706]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.02.25-17.14.28:748][706]DumpUnbuiltLightIteractions
+[2020.02.25-17.14.28:748][706]Lights with unbuilt interactions: 0
+[2020.02.25-17.14.28:748][706]
+[2020.02.25-17.14.28:748][706]Primitives with unbuilt interactions: 0
+[2020.02.25-17.14.28:978][707]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.25-17.14.28:978][707]MapCheck: New page: TopDownExampleMap - Feb 25, 2020, 7:14:28 PM
+[2020.02.25-17.14.28:978][707]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.287ms to complete.
+[2020.02.25-17.14.31:194][839]LogSlate: Window 'Message Log' being destroyed
+[2020.02.25-17.14.31:199][839]LogSlate: Window 'Message Log' being destroyed
+[2020.02.25-17.16.39:348][542]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-17.16.39:453][542]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.25-17.16.39:564][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-17.16.39:694][542]PIE: New page: PIE session: TopDownExampleMap (Feb 25, 2020, 7:16:39 PM)
+[2020.02.25-17.16.39:858][542]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.25-17.16.40:400][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.540987s)
+[2020.02.25-17.16.40:586][542]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.25-17.16.40:606][542]LogPlayLevel: PIE: World Init took: (0.206947s)
+[2020.02.25-17.16.40:606][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.748164s)
+[2020.02.25-17.16.40:945][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.02.25-17.16.41:004][542]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.25-17.16.41:004][542]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.25-17.16.41:004][542]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.25-17.16.41:004][542]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.25-17.16.41:004][542]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.25-17.16.41:004][542]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.25-17.16.41:004][542]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.25-17.16.41:021][542]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.25-17.16.41:022][542]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.25-17.16.41:022][542]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.25-17.16.41:031][542]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.25-17.16.41:031][542]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.02.25-17.16.41:031][542]LogAudioMixer: Display: Is Default: Yes
+[2020.02.25-17.16.41:031][542]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.25-17.16.41:031][542]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.25-17.16.41:031][542]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.25-17.16.41:031][542]LogAudioMixer: Display: Channel Order:
+[2020.02.25-17.16.41:031][542]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.25-17.16.41:031][542]LogAudioMixer: Display: 1: FrontRight
+[2020.02.25-17.16.41:092][542]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.02.25-17.16.41:104][542]LogInit: FAudioDevice initialized.
+[2020.02.25-17.16.41:185][542]LogLoad: Game class is 'RealeaseGameGameMode'
+[2020.02.25-17.16.41:463][542]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.02.25-18.16.41
+[2020.02.25-17.16.41:471][542]LogWorld: Bringing up level for play took: 0.154802
+[2020.02.25-17.16.41:530][542]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.02.25-17.16.41:852][542]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 3.281
+[2020.02.25-17.16.41:965][542]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.25-17.16.45:766][752]LogScript: Warning: Attempted to access Golem via property Golem, but Golem is pending kill
+	Golem_C /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Golem_2
+	Function /Game/TopDownCPP/Blueprints/Golem.Golem_C:Move Golem:01B0
+[2020.02.25-17.16.45:776][752]PIE: Error: Blueprint Runtime Error: "Attempted to access Golem via property Golem, but Golem is pending kill". Blueprint:  Golem Function:  Move Golem Graph:  Move Golem Node:  Set direction
+[2020.02.25-17.17.06:440][991]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-17.17.06:440][991]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-17.17.06:471][991]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.25-17.17.06:482][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-17.17.06:482][991]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.25-17.17.06:491][991]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-17.17.06:503][991]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-17.17.06:521][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-17.17.06:558][991]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-17.17.06:558][991]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.25-17.17.06:572][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-17.17.06:608][991]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-17.17.06:653][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-17.17.06:723][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.02.25-17.17.06:921][992]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.02.25-17.17.11:712][278]LogSlate: Window 'Message Log' being destroyed
+[2020.02.25-17.17.11:755][278]LogSlate: Window 'Message Log' being destroyed
+[2020.02.25-17.17.17:709][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.02.25-17.17.19:837][631]LogSlate: Window 'Save Content' being destroyed
+[2020.02.25-17.17.19:974][631]LogSlate: Window 'RealeaseGame - Unreal Editor' being destroyed
+[2020.02.25-17.17.20:735][632]Cmd: QUIT_EDITOR
+[2020.02.25-17.17.20:735][632]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.02.25-17.17.20:788][632]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.02.25-17.17.20:813][632]LogAudioMixer: Display: No commands were queued while flushing the source manager.

@@ -31,8 +31,8 @@
 /wd4838
 /we4668
 /I .
-/I F:\ProjectStartUp\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Inc\RealeaseGame
-/I F:\ProjectStartUp\StartUp\RealeaseGame\Source
+/I E:\BaseDefenseGit\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Inc\RealeaseGame
+/I E:\BaseDefenseGit\StartUp\RealeaseGame\Source
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -255,18 +255,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-/FI"F:\ProjectStartUp\StartUp\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"F:\ProjectStartUp\StartUp\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"F:\ProjectStartUp\StartUp\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"F:\ProjectStartUp\StartUp\RealeaseGame\Source\RealeaseGame\RealeaseGameGameMode.cpp"
-/FI"F:\ProjectStartUp\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h"
-/Fo"F:\ProjectStartUp\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\RealeaseGameGameMode.cpp.obj"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
+/FI"E:\BaseDefenseGit\StartUp\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"E:\BaseDefenseGit\StartUp\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"E:\BaseDefenseGit\StartUp\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"E:\BaseDefenseGit\StartUp\RealeaseGame\Source\RealeaseGame\RealeaseGameGameMode.cpp"
+/FI"E:\BaseDefenseGit\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h"
+/Fo"E:\BaseDefenseGit\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\RealeaseGameGameMode.cpp.obj"
 /TP
 /GR-
 /W4
