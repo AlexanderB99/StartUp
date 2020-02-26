@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 D:\startup\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h
 D:\Unreal\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 D:\Unreal\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
 D:\startup\StartUp\RealeaseGame\Source\RealeaseGame/RealeaseGamePlayerController.h
 d:\startup\startup\realeasegame\intermediate\build\win64\ue4editor\inc\realeasegame\RealeaseGamePlayerController.generated.h
+=======
+E:\BaseDefenseGit\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h
+E:\batman\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\batman\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\BaseDefenseGit\StartUp\RealeaseGame\Source\RealeaseGame/RealeaseGamePlayerController.h
+E:\BaseDefenseGit\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Inc\RealeaseGame\RealeaseGamePlayerController.generated.h
+>>>>>>> cb36693... Imported models and textures

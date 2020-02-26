@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // PCH for D:\Unreal\UE_4.24\Engine\Source\Runtime\Engine\Public\EngineSharedPCH.h
+=======
+// PCH for E:\batman\UE_4.24\Engine\Source\Runtime\Engine\Public\EngineSharedPCH.h
+>>>>>>> cb36693... Imported models and textures
 #define IS_PROGRAM 0
 #define UE_EDITOR 1
 #define ENABLE_PGO_PROFILE 0
@@ -393,4 +397,8 @@
 #define CLOTHINGSYSTEMRUNTIMEINTERFACE_API DLLIMPORT
 #define AUDIOMIXERCORE_VTABLE DLLIMPORT_VTABLE
 #define AUDIOMIXERCORE_API DLLIMPORT
+<<<<<<< HEAD
 #include "D:/Unreal/UE_4.24/Engine/Source/Runtime/Engine/Public/EngineSharedPCH.h"
+=======
+#include "E:/batman/UE_4.24/Engine/Source/Runtime/Engine/Public/EngineSharedPCH.h"
+>>>>>>> cb36693... Imported models and textures

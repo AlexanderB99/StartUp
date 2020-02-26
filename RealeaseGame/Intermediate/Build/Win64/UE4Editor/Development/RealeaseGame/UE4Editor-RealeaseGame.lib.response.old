@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /NOLOGO
 /errorReport:prompt
 /MACHINE:x64
@@ -17,4 +18,25 @@
 "F:\ProjectStartUp\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\RealeaseGamePlayerController.gen.cpp.obj"
 "F:\ProjectStartUp\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Default.rc2.res"
 /OUT:"F:\ProjectStartUp\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\UE4Editor-RealeaseGame.lib"
+=======
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RealeaseGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\ProjectStartUp\StartUp\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\ProjectStartUp\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\RealeaseGame.cpp.obj"
+"F:\ProjectStartUp\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\RealeaseGameCharacter.cpp.obj"
+"F:\ProjectStartUp\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\RealeaseGameGameMode.cpp.obj"
+"F:\ProjectStartUp\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\RealeaseGamePlayerController.cpp.obj"
+"F:\ProjectStartUp\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\RealeaseGame.init.gen.cpp.obj"
+"F:\ProjectStartUp\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\RealeaseGameCharacter.gen.cpp.obj"
+"F:\ProjectStartUp\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\RealeaseGameGameMode.gen.cpp.obj"
+"F:\ProjectStartUp\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\RealeaseGamePlayerController.gen.cpp.obj"
+"F:\ProjectStartUp\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Default.rc2.res"
+/OUT:"F:\ProjectStartUp\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\UE4Editor-RealeaseGame.lib"
+>>>>>>> cb36693... Imported models and textures
 /INCLUDE:IMPLEMENT_MODULE_RealeaseGame

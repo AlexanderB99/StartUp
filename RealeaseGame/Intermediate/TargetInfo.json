@@ -2,12 +2,20 @@
 	"Targets": [
 		{
 			"Name": "RealeaseGame",
+<<<<<<< HEAD
 			"Path": "D:\\startup\\StartUp\\RealeaseGame\\Source\\RealeaseGame.Target.cs",
+=======
+			"Path": "E:\\BaseDefenseGit\\StartUp\\RealeaseGame\\Source\\RealeaseGame.Target.cs",
+>>>>>>> cb36693... Imported models and textures
 			"Type": "Game"
 		},
 		{
 			"Name": "RealeaseGameEditor",
+<<<<<<< HEAD
 			"Path": "D:\\startup\\StartUp\\RealeaseGame\\Source\\RealeaseGameEditor.Target.cs",
+=======
+			"Path": "E:\\BaseDefenseGit\\StartUp\\RealeaseGame\\Source\\RealeaseGameEditor.Target.cs",
+>>>>>>> cb36693... Imported models and textures
 			"Type": "Editor"
 		}
 	]

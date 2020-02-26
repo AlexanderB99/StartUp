@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 D:\startup\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h
 d:\startup\startup\realeasegame\source\realeasegame\RealeaseGame.h
+=======
+E:\BaseDefenseGit\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h
+E:\BaseDefenseGit\StartUp\RealeaseGame\Source\RealeaseGame\RealeaseGame.h
+>>>>>>> cb36693... Imported models and textures

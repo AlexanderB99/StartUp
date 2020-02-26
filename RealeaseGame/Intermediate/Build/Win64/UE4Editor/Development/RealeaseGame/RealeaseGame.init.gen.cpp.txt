@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 D:\startup\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h
 D:\Unreal\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 D:\Unreal\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+=======
+E:\BaseDefenseGit\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h
+E:\batman\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\batman\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+>>>>>>> cb36693... Imported models and textures
