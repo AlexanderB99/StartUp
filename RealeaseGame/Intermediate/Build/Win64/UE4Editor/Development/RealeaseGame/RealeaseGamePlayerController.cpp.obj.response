@@ -32,12 +32,17 @@
 /we4668
 /I .
 <<<<<<< HEAD
+<<<<<<< HEAD
 /I D:\startup\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Inc\RealeaseGame
 /I D:\startup\StartUp\RealeaseGame\Source
 =======
 /I E:\BaseDefenseGit\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Inc\RealeaseGame
 /I E:\BaseDefenseGit\StartUp\RealeaseGame\Source
 >>>>>>> cb36693... Imported models and textures
+=======
+/I "D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Inc\RealeaseGame"
+/I "D:\Project 3rd quartile\RealeaseGame\Source"
+>>>>>>> 3f755f4... Added simple building system
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -262,11 +267,12 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
 <<<<<<< HEAD
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.7.1\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
+<<<<<<< HEAD
 /FI"D:\startup\StartUp\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
 /Yu"D:\startup\StartUp\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
 /Fp"D:\startup\StartUp\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
@@ -287,6 +293,14 @@
 /FI"E:\BaseDefenseGit\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h"
 /Fo"E:\BaseDefenseGit\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\RealeaseGamePlayerController.cpp.obj"
 >>>>>>> cb36693... Imported models and textures
+=======
+/FI"D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"D:\Project 3rd quartile\RealeaseGame\Source\RealeaseGame\RealeaseGamePlayerController.cpp"
+/FI"D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h"
+/Fo"D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\RealeaseGamePlayerController.cpp.obj"
+>>>>>>> 3f755f4... Added simple building system
 /TP
 /GR-
 /W4

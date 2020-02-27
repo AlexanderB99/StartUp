@@ -4,6 +4,7 @@
 			"Name": "RealeaseGame",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 			"Path": "D:\\startup\\StartUp\\RealeaseGame\\Source\\RealeaseGame.Target.cs",
 =======
 			"Path": "E:\\BaseDefenseGit\\StartUp\\RealeaseGame\\Source\\RealeaseGame.Target.cs",
@@ -11,10 +12,14 @@
 =======
 			"Path": "F:\\ProjectStartUp\\StartUp\\RealeaseGame\\Source\\RealeaseGame.Target.cs",
 >>>>>>> 9436ec4... extra
+=======
+			"Path": "D:\\Project 3rd quartile\\RealeaseGame\\Source\\RealeaseGame.Target.cs",
+>>>>>>> 3f755f4... Added simple building system
 			"Type": "Game"
 		},
 		{
 			"Name": "RealeaseGameEditor",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 			"Path": "D:\\startup\\StartUp\\RealeaseGame\\Source\\RealeaseGameEditor.Target.cs",
@@ -24,6 +29,9 @@
 =======
 			"Path": "F:\\ProjectStartUp\\StartUp\\RealeaseGame\\Source\\RealeaseGameEditor.Target.cs",
 >>>>>>> 9436ec4... extra
+=======
+			"Path": "D:\\Project 3rd quartile\\RealeaseGame\\Source\\RealeaseGameEditor.Target.cs",
+>>>>>>> 3f755f4... Added simple building system
 			"Type": "Editor"
 		}
 	]

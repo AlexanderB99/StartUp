@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 D:\startup\StartUp\RealeaseGame\Source\RealeaseGame\RealeaseGameGameMode.h
 D:\startup\StartUp\RealeaseGame\Source\RealeaseGame\RealeaseGamePlayerController.h
 D:\startup\StartUp\RealeaseGame\Source\RealeaseGame\RealeaseGameCharacter.h
@@ -7,3 +8,8 @@ E:\BaseDefenseGit\StartUp\RealeaseGame\Source\RealeaseGame\RealeaseGameGameMode.
 E:\BaseDefenseGit\StartUp\RealeaseGame\Source\RealeaseGame\RealeaseGameCharacter.h
 E:\BaseDefenseGit\StartUp\RealeaseGame\Source\RealeaseGame\RealeaseGamePlayerController.h
 >>>>>>> cb36693... Imported models and textures
+=======
+D:\Project 3rd quartile\RealeaseGame\Source\RealeaseGame\RealeaseGameCharacter.h
+D:\Project 3rd quartile\RealeaseGame\Source\RealeaseGame\RealeaseGameGameMode.h
+D:\Project 3rd quartile\RealeaseGame\Source\RealeaseGame\RealeaseGamePlayerController.h
+>>>>>>> 3f755f4... Added simple building system
