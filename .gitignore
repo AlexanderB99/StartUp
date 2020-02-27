@@ -72,3 +72,15 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+RealeaseGame/Saved/StagedBuilds/
+
+RealeaseGame/Saved/Cooked/
+
+RealeaseGame/Intermediate/Android/
+
+RealeaseGame/Intermediate/Build/
+
+RealeaseGame/Build/
+
+RealeaseGame/Binaries/
