@@ -1,6 +1,7 @@
 {
 	"SourceFiles": [
 <<<<<<< HEAD
+<<<<<<< HEAD
 		"D:\\startup\\StartUp\\RealeaseGame\\Source\\RealeaseGame\\RealeaseGame.Build.cs",
 		"D:\\startup\\StartUp\\RealeaseGame\\Source\\RealeaseGame.Target.cs",
 		"D:\\startup\\StartUp\\RealeaseGame\\Source\\RealeaseGameEditor.Target.cs"
@@ -9,6 +10,11 @@
 		"E:\\BaseDefenseGit\\StartUp\\RealeaseGame\\Source\\RealeaseGame.Target.cs",
 		"E:\\BaseDefenseGit\\StartUp\\RealeaseGame\\Source\\RealeaseGameEditor.Target.cs"
 >>>>>>> cb36693... Imported models and textures
+=======
+		"F:\\ProjectStartUp\\StartUp\\RealeaseGame\\Source\\RealeaseGame\\RealeaseGame.Build.cs",
+		"F:\\ProjectStartUp\\StartUp\\RealeaseGame\\Source\\RealeaseGame.Target.cs",
+		"F:\\ProjectStartUp\\StartUp\\RealeaseGame\\Source\\RealeaseGameEditor.Target.cs"
+>>>>>>> 9436ec4... extra
 	],
-	"EngineVersion": "4.24.3"
+	"EngineVersion": "4.24.2"
 }
