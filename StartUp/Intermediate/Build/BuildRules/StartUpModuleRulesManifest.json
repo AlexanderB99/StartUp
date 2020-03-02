@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\startup\\StartUp\\StartUp\\Source\\StartUp\\StartUp.Build.cs",
-		"D:\\startup\\StartUp\\StartUp\\Source\\StartUp.Target.cs",
-		"D:\\startup\\StartUp\\StartUp\\Source\\StartUpEditor.Target.cs"
+		"F:\\ProjectStartUp\\StartUp\\StartUp\\Source\\StartUp\\StartUp.Build.cs",
+		"F:\\ProjectStartUp\\StartUp\\StartUp\\Source\\StartUp.Target.cs",
+		"F:\\ProjectStartUp\\StartUp\\StartUp\\Source\\StartUpEditor.Target.cs"
 	],
 	"EngineVersion": "4.24.2"
 }
