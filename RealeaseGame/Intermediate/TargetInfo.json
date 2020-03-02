@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "RealeaseGame",
-			"Path": "E:\\BaseDefenseGit\\StartUp\\RealeaseGame\\Source\\RealeaseGame.Target.cs",
+			"Path": "F:\\ProjectStartUp\\StartUp\\RealeaseGame\\Source\\RealeaseGame.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "RealeaseGameEditor",
-			"Path": "E:\\BaseDefenseGit\\StartUp\\RealeaseGame\\Source\\RealeaseGameEditor.Target.cs",
+			"Path": "F:\\ProjectStartUp\\StartUp\\RealeaseGame\\Source\\RealeaseGameEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
