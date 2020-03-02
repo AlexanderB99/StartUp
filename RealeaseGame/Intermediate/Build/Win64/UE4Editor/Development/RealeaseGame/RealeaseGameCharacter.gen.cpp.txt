@@ -1,37 +1,9 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-D:\startup\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h
-=======
-D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h
->>>>>>> 3f755f4... Added simple building system
-=======
-D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h
->>>>>>> Sebi
-D:\Unreal\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\Unreal\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\Project 3rd quartile\RealeaseGame\Source\RealeaseGame/RealeaseGameCharacter.h
-D:\Unreal\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
-D:\Unreal\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
-D:\Unreal\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
-D:\Unreal\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
-<<<<<<< HEAD
-<<<<<<< HEAD
-d:\startup\startup\realeasegame\intermediate\build\win64\ue4editor\inc\realeasegame\RealeaseGameCharacter.generated.h
-=======
-E:\BaseDefenseGit\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h
-E:\batman\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-E:\batman\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-E:\BaseDefenseGit\StartUp\RealeaseGame\Source\RealeaseGame/RealeaseGameCharacter.h
-E:\batman\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
-E:\batman\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
-E:\batman\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
-E:\batman\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
-E:\BaseDefenseGit\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Inc\RealeaseGame\RealeaseGameCharacter.generated.h
->>>>>>> cb36693... Imported models and textures
-=======
-d:\project 3rd quartile\realeasegame\intermediate\build\win64\ue4editor\inc\realeasegame\RealeaseGameCharacter.generated.h
->>>>>>> 3f755f4... Added simple building system
-=======
-d:\project 3rd quartile\realeasegame\intermediate\build\win64\ue4editor\inc\realeasegame\RealeaseGameCharacter.generated.h
->>>>>>> Sebi
+F:\ProjectStartUp\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h
+F:\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+F:\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\ProjectStartUp\StartUp\RealeaseGame\Source\RealeaseGame/RealeaseGameCharacter.h
+F:\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+F:\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+F:\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+F:\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+f:\projectstartup\startup\realeasegame\intermediate\build\win64\ue4editor\inc\realeasegame\RealeaseGameCharacter.generated.h

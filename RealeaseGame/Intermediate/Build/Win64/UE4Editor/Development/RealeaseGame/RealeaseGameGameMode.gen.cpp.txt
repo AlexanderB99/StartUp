@@ -1,37 +1,9 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-D:\startup\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h
-=======
-D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h
->>>>>>> 3f755f4... Added simple building system
-=======
-D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h
->>>>>>> Sebi
-D:\Unreal\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\Unreal\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\Project 3rd quartile\RealeaseGame\Source\RealeaseGame/RealeaseGameGameMode.h
-D:\Unreal\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-D:\Unreal\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-D:\Unreal\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-D:\Unreal\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-<<<<<<< HEAD
-<<<<<<< HEAD
-d:\startup\startup\realeasegame\intermediate\build\win64\ue4editor\inc\realeasegame\RealeaseGameGameMode.generated.h
-=======
-E:\BaseDefenseGit\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h
-E:\batman\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-E:\batman\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-E:\BaseDefenseGit\StartUp\RealeaseGame\Source\RealeaseGame/RealeaseGameGameMode.h
-E:\batman\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-E:\batman\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-E:\batman\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-E:\batman\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-E:\BaseDefenseGit\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Inc\RealeaseGame\RealeaseGameGameMode.generated.h
->>>>>>> cb36693... Imported models and textures
-=======
-d:\project 3rd quartile\realeasegame\intermediate\build\win64\ue4editor\inc\realeasegame\RealeaseGameGameMode.generated.h
->>>>>>> 3f755f4... Added simple building system
-=======
-d:\project 3rd quartile\realeasegame\intermediate\build\win64\ue4editor\inc\realeasegame\RealeaseGameGameMode.generated.h
->>>>>>> Sebi
+F:\ProjectStartUp\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h
+F:\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+F:\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\ProjectStartUp\StartUp\RealeaseGame\Source\RealeaseGame/RealeaseGameGameMode.h
+F:\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+F:\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+F:\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+F:\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+f:\projectstartup\startup\realeasegame\intermediate\build\win64\ue4editor\inc\realeasegame\RealeaseGameGameMode.generated.h
