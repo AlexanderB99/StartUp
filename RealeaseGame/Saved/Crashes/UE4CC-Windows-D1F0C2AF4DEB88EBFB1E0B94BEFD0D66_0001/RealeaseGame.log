@@ -1,0 +1,1729 @@
+﻿Log file open, 03/02/20 12:47:13
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: RealeaseGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.063109
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogHMD: Failed initializing OVRPlugin 1.40.0
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Unreal/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/startup/StartUp/RealeaseGame/Saved/Config/Windows/Engine.ini]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.03.02-11.47.14:455][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/startup/StartUp/RealeaseGame/Saved/Config/Windows/Engine.ini]
+[2020.03.02-11.47.14:456][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/startup/StartUp/RealeaseGame/Saved/Config/Windows/Engine.ini]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.02-11.47.14:456][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.02-11.47.14:457][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.02-11.47.14:457][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.02-11.47.14:457][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.02-11.47.14:457][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.02-11.47.14:457][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.02-11.47.14:457][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.02-11.47.14:457][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.02-11.47.14:457][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.02-11.47.14:457][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.03.02-11.47.14:457][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/startup/StartUp/RealeaseGame/Saved/Config/Windows/Engine.ini]
+[2020.03.02-11.47.14:457][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.02-11.47.14:457][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.02-11.47.14:457][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.02-11.47.14:457][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.02-11.47.14:457][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.02-11.47.14:457][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.02-11.47.14:457][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.03.02-11.47.14:457][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.02-11.47.14:457][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.02-11.47.14:457][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.02-11.47.14:457][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.02-11.47.14:457][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.02-11.47.14:457][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.02-11.47.14:457][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/startup/StartUp/RealeaseGame/Saved/Config/Windows/Engine.ini]
+[2020.03.02-11.47.14:457][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/startup/StartUp/RealeaseGame/Saved/Config/Windows/Engine.ini]
+[2020.03.02-11.47.14:460][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/startup/StartUp/RealeaseGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-11.47.14:460][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.02-11.47.14:460][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.02-11.47.14:460][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/startup/StartUp/RealeaseGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-11.47.14:460][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.02-11.47.14:460][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/startup/StartUp/RealeaseGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-11.47.14:460][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.02-11.47.14:460][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.02-11.47.14:460][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.02-11.47.14:460][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.02-11.47.14:460][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.02-11.47.14:460][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.02-11.47.14:460][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.02-11.47.14:460][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.02-11.47.14:460][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.02-11.47.14:460][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.02-11.47.14:460][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.02-11.47.14:460][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.02-11.47.14:460][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.02-11.47.14:460][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/startup/StartUp/RealeaseGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/startup/StartUp/RealeaseGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/startup/StartUp/RealeaseGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.02-11.47.14:461][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.02-11.47.14:462][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.02-11.47.14:462][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.02-11.47.14:462][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.02-11.47.14:462][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.02-11.47.14:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.02-11.47.14:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.02-11.47.14:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.02-11.47.14:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.02-11.47.14:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.02-11.47.14:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.02-11.47.14:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.02-11.47.14:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.02-11.47.14:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.02-11.47.14:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.02-11.47.14:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.02-11.47.14:462][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/startup/StartUp/RealeaseGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-11.47.14:462][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.02-11.47.14:462][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.02-11.47.14:462][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/startup/StartUp/RealeaseGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-11.47.14:462][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.02-11.47.14:462][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.02-11.47.14:462][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.02-11.47.14:462][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.02-11.47.14:462][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.02-11.47.14:465][  0]LogHAL: Display: Platform has ~ 16 GB [17057812480 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.02-11.47.14:465][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.02-11.47.14:465][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/startup/StartUp/RealeaseGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/startup/StartUp/RealeaseGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/startup/StartUp/RealeaseGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/startup/StartUp/RealeaseGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.02-11.47.14:465][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.02-11.47.14:466][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.02-11.47.14:466][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.02-11.47.14:466][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.02-11.47.14:466][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/startup/StartUp/RealeaseGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-11.47.14:466][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.02-11.47.14:466][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.02-11.47.14:466][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.02-11.47.14:466][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.02-11.47.14:466][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.02-11.47.14:466][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.02-11.47.14:466][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.02-11.47.14:466][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.02-11.47.14:466][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.02-11.47.14:466][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/startup/StartUp/RealeaseGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-11.47.14:466][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.02-11.47.14:466][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.02-11.47.14:466][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.02-11.47.14:466][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.02-11.47.14:466][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.02-11.47.14:466][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.02-11.47.14:466][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.02-11.47.14:466][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.02-11.47.14:466][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.02-11.47.14:466][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.02-11.47.14:466][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.02-11.47.14:466][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.02-11.47.14:466][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.02-11.47.14:466][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.02-11.47.14:466][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.02-11.47.14:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.02-11.47.14:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.02-11.47.14:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.02-11.47.14:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.02-11.47.14:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.02-11.47.14:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.02-11.47.14:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.02-11.47.14:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.02-11.47.14:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.02-11.47.14:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.02-11.47.14:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.02-11.47.14:467][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/startup/StartUp/RealeaseGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-11.47.14:467][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.02-11.47.14:467][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.02-11.47.14:467][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/startup/StartUp/RealeaseGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-11.47.14:467][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.02-11.47.14:467][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.02-11.47.14:467][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.02-11.47.14:467][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.02-11.47.14:467][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.02-11.47.14:467][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.02-11.47.14:467][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/startup/StartUp/RealeaseGame/Saved/Config/Windows/Engine.ini]
+[2020.03.02-11.47.14:468][  0]LogInit: Computer: DESKTOP-9A3EFSU
+[2020.03.02-11.47.14:468][  0]LogInit: User: Alexander
+[2020.03.02-11.47.14:468][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.02-11.47.14:468][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.02-11.47.14:468][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.03.02-11.47.14:468][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.02-11.47.14:468][  0]LogMemory: Process Physical Memory: 109.00 MB used, 109.00 MB peak
+[2020.03.02-11.47.14:468][  0]LogMemory: Process Virtual Memory: 104.74 MB used, 104.74 MB peak
+[2020.03.02-11.47.14:469][  0]LogMemory: Physical Memory: 7864.06 MB used,  8403.54 MB free, 16267.60 MB total
+[2020.03.02-11.47.14:469][  0]LogMemory: Virtual Memory: 5178.87 MB used,  134212552.00 MB free, 134217728.00 MB total
+[2020.03.02-11.47.14:472][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.03.02-11.47.14:585][  0]LogInit: Using OS detected language (en-US).
+[2020.03.02-11.47.14:585][  0]LogInit: Using OS detected locale (en-US).
+[2020.03.02-11.47.14:586][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.03.02-11.47.14:792][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.02-11.47.14:840][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.02-11.47.14:840][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.02-11.47.15:031][  0]LogHMD: Failed to initialize OpenVR with code 102
+[2020.03.02-11.47.15:031][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.03.02-11.47.15:031][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.03.02-11.47.15:031][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.02-11.47.16:165][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2020.03.02-11.47.16:165][  0]LogD3D11RHI:       6052/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.02-11.47.16:176][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.03.02-11.47.16:176][  0]LogD3D11RHI:       128/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.03.02-11.47.16:178][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.02-11.47.16:178][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.02-11.47.16:178][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.02-11.47.16:215][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.02-11.47.16:215][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.02-11.47.16:215][  0]LogWindows: EnumDisplayDevices:
+[2020.03.02-11.47.16:215][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.03.02-11.47.16:215][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.03.02-11.47.16:216][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.03.02-11.47.16:216][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.03.02-11.47.16:216][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.03.02-11.47.16:216][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.03.02-11.47.16:217][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.03.02-11.47.16:217][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.03.02-11.47.16:217][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2020.03.02-11.47.16:217][  0]LogD3D11RHI:   Driver Version: 442.50 (internal:26.21.14.4250, unified:442.50)
+[2020.03.02-11.47.16:217][  0]LogD3D11RHI:      Driver Date: 2-24-2020
+[2020.03.02-11.47.16:217][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.03.02-11.47.16:268][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.03.02-11.47.16:268][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.02-11.47.16:281][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.02-11.47.16:683][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.03.02-11.47.16:714][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.03.02-11.47.16:715][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.03.02-11.47.16:715][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.03.02-11.47.16:715][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.03.02-11.47.16:715][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.03.02-11.47.16:715][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.03.02-11.47.16:715][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.03.02-11.47.16:715][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.03.02-11.47.16:715][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.03.02-11.47.16:715][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.02-11.47.16:715][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.03.02-11.47.16:715][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.03.02-11.47.16:715][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.02-11.47.16:715][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.02-11.47.16:715][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.02-11.47.16:715][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.02-11.47.16:715][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.03.02-11.47.16:715][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.03.02-11.47.16:735][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.03.02-11.47.16:735][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.03.02-11.47.16:742][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.02-11.47.16:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.03.02-11.47.16:757][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.03.02-11.47.16:764][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.03.02-11.47.16:772][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.03.02-11.47.16:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.03.02-11.47.16:802][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.03.02-11.47.16:802][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.03.02-11.47.16:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.03.02-11.47.16:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.03.02-11.47.16:824][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.02-11.47.16:832][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.03.02-11.47.16:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.03.02-11.47.16:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.03.02-11.47.16:847][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.02-11.47.16:850][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.02-11.47.16:869][  0]LogShaderCompilers: Guid format shader working directory is 7 characters bigger than the processId version (../../../../../startup/StartUp/RealeaseGame/Intermediate/Shaders/WorkingDirectory/9624/).
+[2020.03.02-11.47.16:869][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alexander/AppData/Local/Temp/UnrealShaderWorkingDir/9370F4CD45C2AB0E17D59687F9C21FE9/'.
+[2020.03.02-11.47.16:869][  0]LogXGEController: Cleaning working directory: C:/Users/Alexander/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.03.02-11.47.16:869][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.02-11.47.16:869][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.02-11.47.16:869][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.02-11.47.17:656][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.02-11.47.17:715][  0]LogDerivedDataCache: Loaded boot cache 0.06s 85MB C:/Users/Alexander/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.02-11.47.17:715][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alexander/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.03.02-11.47.17:715][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../startup/StartUp/RealeaseGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.02-11.47.17:715][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.02-11.47.17:716][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../startup/StartUp/RealeaseGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.02-11.47.17:716][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.02-11.47.17:726][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.02-11.47.17:726][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.02-11.47.17:726][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.02-11.47.17:728][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alexander/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.02-11.47.17:728][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.02-11.47.17:728][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.02-11.47.17:754][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.02-11.47.17:757][  0]LogSlate: Using FreeType 2.10.0
+[2020.03.02-11.47.17:757][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.02-11.47.17:809][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2020.03.02-11.47.18:097][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.02-11.47.18:261][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.02-11.47.18:261][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.02-11.47.18:261][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.02-11.47.18:261][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.02-11.47.18:261][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.02-11.47.18:272][  0]LogNetVersion: RealeaseGame 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1803780436)
+[2020.03.02-11.47.19:364][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.051016 seconds
+[2020.03.02-11.47.19:371][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.03.02-11.47.19:371][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.03.02-11.47.19:371][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.02-11.47.19:759][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.02-11.47.19:762][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.02-11.47.25:855][  0]SourceControl: Source control is disabled
+[2020.03.02-11.47.25:855][  0]SourceControl: Source control is disabled
+[2020.03.02-11.47.25:857][  0]SourceControl: Source control is disabled
+[2020.03.02-11.47.25:858][  0]SourceControl: Source control is disabled
+[2020.03.02-11.47.25:859][  0]SourceControl: Source control is disabled
+[2020.03.02-11.47.25:938][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.02-11.47.25:950][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.02-11.47.25:950][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.02-11.47.26:033][  0]LogOcInput: OculusInput pre-init called
+[2020.03.02-11.47.26:625][  0]LogEngine: Initializing Engine...
+[2020.03.02-11.47.26:626][  0]LogHMD: Failed to initialize OpenVR with code 102
+[2020.03.02-11.47.26:627][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.02-11.47.26:972][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.02-11.47.26:982][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.02-11.47.27:003][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.02-11.47.27:003][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.02-11.47.27:003][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.02-11.47.27:003][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.02-11.47.27:003][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.02-11.47.27:003][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.02-11.47.27:003][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.02-11.47.27:003][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.02-11.47.27:004][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.02-11.47.27:004][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.02-11.47.27:026][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.02-11.47.27:026][  0]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio(SST))
+[2020.03.02-11.47.27:026][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.03.02-11.47.27:026][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.02-11.47.27:026][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.02-11.47.27:026][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.02-11.47.27:026][  0]LogAudioMixer: Display: Channel Order:
+[2020.03.02-11.47.27:026][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.02-11.47.27:026][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.03.02-11.47.27:560][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.03.02-11.47.27:566][  0]LogInit: FAudioDevice initialized.
+[2020.03.02-11.47.27:567][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.02-11.47.27:638][  0]LogDerivedDataCache: Saved boot cache 0.07s 88MB C:/Users/Alexander/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.02-11.47.27:641][  0]LogInit: Texture streaming: Enabled
+[2020.03.02-11.47.27:650][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.02-11.47.27:650][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.03.02-11.47.27:652][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.03.02-11.47.27:704][  0]LogInit: Transaction tracking system initialized
+[2020.03.02-11.47.27:914][  0]BlueprintLog: New page: Editor Load
+[2020.03.02-11.47.27:953][  0]LocalizationService: Localization service is disabled
+[2020.03.02-11.47.28:029][  0]LogLinker: Warning: Asset '../../../../../startup/StartUp/RealeaseGame/Content/TopDownCPP/TopDownOverview.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.02-11.47.28:276][  0]LogFileCache: Scanning file cache for directory 'D:/startup/StartUp/RealeaseGame/Content/' took 0.01s
+[2020.03.02-11.47.28:276][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.02-11.47.28:276][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.02-11.47.28:909][  0]SourceControl: Source control is disabled
+[2020.03.02-11.47.28:909][  0]Cmd: MAP LOAD FILE="../../../../../startup/StartUp/RealeaseGame/Content/TopDownCPP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.02-11.47.28:980][  0]LightingResults: New page: Lighting Build
+[2020.03.02-11.47.28:981][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.03.02-11.47.28:981][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-11.47.28:981][  0]MapCheck: New page: Map Check
+[2020.03.02-11.47.28:981][  0]LightingResults: New page: Lighting Build
+[2020.03.02-11.47.29:014][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.03.02-11.47.29:973][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.03.02-11.47.29:991][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.02-11.47.30:020][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.03.02-11.47.30:020][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.02-11.47.30:021][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.098ms to complete.
+[2020.03.02-11.47.30:021][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 1.112
+[2020.03.02-11.47.30:168][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-11.47.30:175][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-11.47.30:182][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-11.47.30:189][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-11.47.30:193][  0]LogCollectionManager: Loaded 0 collections in 0.000899 seconds
+[2020.03.02-11.47.30:205][  0]LogFileCache: Scanning file cache for directory 'D:/startup/StartUp/RealeaseGame/Saved/Collections/' took 0.00s
+[2020.03.02-11.47.30:205][  0]LogFileCache: Scanning file cache for directory 'D:/startup/StartUp/RealeaseGame/Content/Developers/Alexander/Collections/' took 0.00s
+[2020.03.02-11.47.30:205][  0]LogFileCache: Scanning file cache for directory 'D:/startup/StartUp/RealeaseGame/Content/Collections/' took 0.00s
+[2020.03.02-11.47.30:205][  0]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 3018 classes and 719 folders.
+[2020.03.02-11.47.30:207][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.02-11.47.30:252][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.02-11.47.30:258][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.03.02-11.47.30:311][  0]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.02-11.47.30:313][  0]LogSlate: Took 0.000408 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.02-11.47.30:318][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.02-11.47.30:319][  0]LogSlate: Took 0.000089 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.03.02-11.47.30:449][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.03.02-11.47.30:626][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.02-11.47.30:626][  0]LogLoad: (Engine Initialization) Total time: 18.58 seconds
+[2020.03.02-11.47.30:626][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.02-11.47.30:685][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.02-11.47.32:239][ 74]LogEditorViewport: Clicking on Actor (LMB): WallStraight_C (WallStraight)
+[2020.03.02-11.47.33:939][170]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.02-11.47.33:955][170]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-11.47.33:955][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.02-11.47.33:955][170]PIE: New page: PIE session: TopDownExampleMap (Mar 2, 2020, 1:47:33 PM)
+[2020.03.02-11.47.33:957][170]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.03.02-11.47.33:957][170]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.03.02-11.47.33:958][170]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.02-11.47.33:976][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017899s)
+[2020.03.02-11.47.33:978][170]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.03.02-11.47.33:978][170]LogPlayLevel: PIE: World Init took: (0.002194s)
+[2020.03.02-11.47.33:978][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.020601s)
+[2020.03.02-11.47.34:006][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.03.02-11.47.34:008][170]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.02-11.47.34:008][170]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.02-11.47.34:008][170]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.02-11.47.34:008][170]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.02-11.47.34:008][170]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.02-11.47.34:008][170]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.02-11.47.34:008][170]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.02-11.47.34:008][170]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.02-11.47.34:008][170]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.02-11.47.34:008][170]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.02-11.47.34:016][170]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.02-11.47.34:017][170]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio(SST))
+[2020.03.02-11.47.34:017][170]LogAudioMixer: Display: Is Default: Yes
+[2020.03.02-11.47.34:017][170]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.02-11.47.34:017][170]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.02-11.47.34:017][170]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.02-11.47.34:017][170]LogAudioMixer: Display: Channel Order:
+[2020.03.02-11.47.34:017][170]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.02-11.47.34:017][170]LogAudioMixer: Display: 1: FrontRight
+[2020.03.02-11.47.34:037][170]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.03.02-11.47.34:039][170]LogInit: FAudioDevice initialized.
+[2020.03.02-11.47.34:053][170]LogLoad: Game class is 'RealeaseGameGameMode'
+[2020.03.02-11.47.34:055][170]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.03.02-12.47.34
+[2020.03.02-11.47.34:056][170]LogWorld: Bringing up level for play took: 0.001965
+[2020.03.02-11.47.34:056][170]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2020.03.02-11.47.34:118][170]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.03.02-11.47.34:347][170]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0.988
+[2020.03.02-11.47.34:347][170]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-11.47.40:398][469]LogAssetRegistry: Asset discovery search completed in 22.5905 seconds
+[2020.03.02-11.47.40:404][469]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000012 seconds (updated 0 objects)
+[2020.03.02-11.59.04:414][494]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-11.59.04:414][494]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-11.59.04:414][494]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-11.59.04:414][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-11.59.04:414][494]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.02-11.59.04:414][494]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-11.59.04:415][494]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.02-11.59.04:415][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-11.59.04:423][494]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.02-11.59.04:423][494]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-11.59.04:426][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-11.59.04:450][494]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-11.59.04:455][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-11.59.04:460][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.03.02-11.59.04:521][497]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.03.02-12.05.34:727][896]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.02-12.05.34:749][896]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.05.34:749][896]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.02-12.05.34:749][896]PIE: New page: PIE session: TopDownExampleMap (Mar 2, 2020, 2:05:34 PM)
+[2020.03.02-12.05.34:749][896]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.02-12.05.34:765][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016245s)
+[2020.03.02-12.05.34:766][896]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.03.02-12.05.34:767][896]LogPlayLevel: PIE: World Init took: (0.001760s)
+[2020.03.02-12.05.34:767][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.018230s)
+[2020.03.02-12.05.34:802][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.03.02-12.05.34:802][896]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.02-12.05.34:802][896]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.02-12.05.34:802][896]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.02-12.05.34:802][896]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.02-12.05.34:802][896]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.02-12.05.34:802][896]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.02-12.05.34:802][896]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.02-12.05.34:802][896]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.02-12.05.34:803][896]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.02-12.05.34:803][896]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.02-12.05.34:815][896]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.02-12.05.34:815][896]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio(SST))
+[2020.03.02-12.05.34:815][896]LogAudioMixer: Display: Is Default: Yes
+[2020.03.02-12.05.34:815][896]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.02-12.05.34:816][896]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.02-12.05.34:816][896]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.02-12.05.34:816][896]LogAudioMixer: Display: Channel Order:
+[2020.03.02-12.05.34:816][896]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.02-12.05.34:816][896]LogAudioMixer: Display: 1: FrontRight
+[2020.03.02-12.05.34:837][896]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.03.02-12.05.34:840][896]LogInit: FAudioDevice initialized.
+[2020.03.02-12.05.34:851][896]LogLoad: Game class is 'RealeaseGameGameMode'
+[2020.03.02-12.05.34:854][896]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.03.02-13.05.34
+[2020.03.02-12.05.34:854][896]LogWorld: Bringing up level for play took: 0.002165
+[2020.03.02-12.05.34:855][896]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.03.02-12.05.34:859][896]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap -0.499
+[2020.03.02-12.05.34:859][896]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.05.38:074][ 87]LogBlueprintUserMessages: [UpgradeMenu_C_0] 0
+[2020.03.02-12.05.38:274][ 99]LogBlueprintUserMessages: [UpgradeMenu_C_0] 0
+[2020.03.02-12.05.38:474][111]LogBlueprintUserMessages: [UpgradeMenu_C_0] 0
+[2020.03.02-12.05.38:641][121]LogBlueprintUserMessages: [UpgradeMenu_C_0] 0
+[2020.03.02-12.05.38:824][132]LogBlueprintUserMessages: [UpgradeMenu_C_0] 0
+[2020.03.02-12.05.39:008][143]LogBlueprintUserMessages: [UpgradeMenu_C_0] 0
+[2020.03.02-12.05.39:191][154]LogBlueprintUserMessages: [UpgradeMenu_C_0] 0
+[2020.03.02-12.05.39:374][165]LogBlueprintUserMessages: [UpgradeMenu_C_0] 0
+[2020.03.02-12.05.39:541][175]LogBlueprintUserMessages: [UpgradeMenu_C_0] 0
+[2020.03.02-12.05.39:707][185]LogBlueprintUserMessages: [UpgradeMenu_C_0] 0
+[2020.03.02-12.05.45:691][544]LogBlueprintUserMessages: [UpgradeMenu_C_0] 0
+[2020.03.02-12.05.45:874][555]LogBlueprintUserMessages: [UpgradeMenu_C_0] 0
+[2020.03.02-12.05.46:058][566]LogBlueprintUserMessages: [UpgradeMenu_C_0] 0
+[2020.03.02-12.05.46:241][577]LogBlueprintUserMessages: [UpgradeMenu_C_0] 0
+[2020.03.02-12.05.46:424][588]LogBlueprintUserMessages: [UpgradeMenu_C_0] 0
+[2020.03.02-12.05.56:025][164]LogBlueprintUserMessages: [UpgradeMenu_C_0] 0
+[2020.03.02-12.05.56:225][176]LogBlueprintUserMessages: [UpgradeMenu_C_0] 0
+[2020.03.02-12.05.56:408][187]LogBlueprintUserMessages: [UpgradeMenu_C_0] 0
+[2020.03.02-12.06.00:876][455]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.06.00:877][455]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.06.00:877][455]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.06.00:877][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-12.06.00:877][455]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.02-12.06.00:877][455]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.06.00:877][455]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.02-12.06.00:878][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-12.06.00:888][455]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.02-12.06.00:888][455]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.06.00:892][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-12.06.00:915][455]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.06.00:919][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-12.06.00:922][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.03.02-12.06.00:986][459]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.03.02-12.09.18:394][300]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.02-12.14.35:777][326]LogEditorViewport: Clicking on Actor (LMB): WallStraight_C (WallStraight5)
+[2020.03.02-12.14.51:349][257]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.02-12.14.53:561][382]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownCPP/Blueprints/WallCurve.WallCurve
+[2020.03.02-12.14.53:736][382]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.03.02-12.14.54:689][382]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.02-12.14.54:780][383]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.02-12.15.18:921][831]LogEditorViewport: Clicking on Actor (LMB): Turret_C (Turret2)
+[2020.03.02-12.15.20:172][903]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownCPP/Blueprints/Turret.Turret
+[2020.03.02-12.15.45:937][393]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UpgradeMenu.UpgradeMenu
+[2020.03.02-12.15.51:013][624]LogSlate: Window 'UpgradeMenu' being destroyed
+[2020.03.02-12.17.06:805][170]LogEditorViewport: Clicking on Actor (LMB): WallCurve_C (WallCurve)
+[2020.03.02-12.18.28:749][ 26]Cmd: TRANSACTION UNDO
+[2020.03.02-12.18.28:749][ 26]LogEditorTransaction: Undo Move Actors
+[2020.03.02-12.18.30:079][ 89]Cmd: TRANSACTION UNDO
+[2020.03.02-12.18.30:079][ 89]LogEditorTransaction: Undo Set Scale
+[2020.03.02-12.18.30:847][135]Cmd: TRANSACTION UNDO
+[2020.03.02-12.18.30:847][135]LogEditorTransaction: Undo Move Actors
+[2020.03.02-12.18.31:346][165]Cmd: TRANSACTION UNDO
+[2020.03.02-12.18.31:347][165]LogEditorTransaction: Undo Move Actors
+[2020.03.02-12.18.33:308][282]Cmd: TRANSACTION UNDO
+[2020.03.02-12.18.33:308][282]LogEditorTransaction: Undo Move Actors
+[2020.03.02-12.18.33:891][317]Cmd: TRANSACTION UNDO
+[2020.03.02-12.18.33:891][317]LogEditorTransaction: Undo Move Actors
+[2020.03.02-12.19.04:575][154]LogEditorViewport: Clicking on Actor (LMB): WallStraight_C (WallStraight4)
+[2020.03.02-12.19.05:681][219]LogEditorViewport: Clicking on Actor (LMB): WallStraight_C (WallStraight6)
+[2020.03.02-12.19.34:811][940]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2020.03.02-12.19.35:110][940]LogSavePackage: Moving '../../../../../startup/StartUp/RealeaseGame/Saved/TopDownExampleMap_Auto1134A9D6B4CDBD19D90CA1BA3FE5C8212.tmp' to '../../../../../startup/StartUp/RealeaseGame/Saved/Autosaves/Game/TopDownCPP/Maps/TopDownExampleMap_Auto1.umap'
+[2020.03.02-12.19.35:112][940]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownCPP/Maps/TopDownExampleMap' took 0.392
+[2020.03.02-12.19.35:112][940]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.392
+[2020.03.02-12.19.35:112][940]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/UpgradeMenu] ([1] browsable assets)...
+[2020.03.02-12.19.35:112][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UpgradeMenu]
+[2020.03.02-12.19.35:112][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UpgradeMenu" FILE="../../../../../startup/StartUp/RealeaseGame/Saved/Autosaves/Game/UI/UpgradeMenu_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.03.02-12.19.35:162][940]LogSavePackage: Moving '../../../../../startup/StartUp/RealeaseGame/Saved/UpgradeMenu_Auto176C6ACFF4B266A5DA4A5DE8B036213DE.tmp' to '../../../../../startup/StartUp/RealeaseGame/Saved/Autosaves/Game/UI/UpgradeMenu_Auto1.uasset'
+[2020.03.02-12.19.35:162][940]LogFileHelpers: Auto-saving content packages took 0.050
+[2020.03.02-12.20.24:727][553]BlueprintLog: New page: Compile UpgradeMenu
+[2020.03.02-12.20.24:797][553]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2020.03.02-12.21.15:320][330]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.02-12.21.24:736][890]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.02-12.21.34:374][459]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.02-12.23.09:461][849]BlueprintLog: New page: Compile UpgradeMenu
+[2020.03.02-12.23.09:542][849]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2020.03.02-12.27.16:746][ 65]LogSlate: Took 0.030956 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.03.02-12.28.34:801][720]BlueprintLog: New page: Compile UpgradeMenu
+[2020.03.02-12.28.34:877][720]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2020.03.02-12.28.41:297][100]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.02-12.28.41:314][100]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.28.41:314][100]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.02-12.28.41:314][100]PIE: New page: PIE session: TopDownExampleMap (Mar 2, 2020, 2:28:41 PM)
+[2020.03.02-12.28.41:314][100]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.02-12.28.41:329][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015376s)
+[2020.03.02-12.28.41:331][100]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.03.02-12.28.41:332][100]LogPlayLevel: PIE: World Init took: (0.001952s)
+[2020.03.02-12.28.41:332][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017594s)
+[2020.03.02-12.28.41:379][100]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.03.02-12.28.41:380][100]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.02-12.28.41:381][100]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.02-12.28.41:381][100]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.02-12.28.41:381][100]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.02-12.28.41:381][100]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.02-12.28.41:381][100]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.02-12.28.41:381][100]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.02-12.28.41:381][100]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.02-12.28.41:381][100]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.02-12.28.41:381][100]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.02-12.28.41:392][100]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.02-12.28.41:392][100]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio(SST))
+[2020.03.02-12.28.41:392][100]LogAudioMixer: Display: Is Default: Yes
+[2020.03.02-12.28.41:392][100]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.02-12.28.41:392][100]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.02-12.28.41:392][100]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.02-12.28.41:392][100]LogAudioMixer: Display: Channel Order:
+[2020.03.02-12.28.41:392][100]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.02-12.28.41:393][100]LogAudioMixer: Display: 1: FrontRight
+[2020.03.02-12.28.41:412][100]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.03.02-12.28.41:414][100]LogInit: FAudioDevice initialized.
+[2020.03.02-12.28.41:423][100]LogLoad: Game class is 'RealeaseGameGameMode'
+[2020.03.02-12.28.41:426][100]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.03.02-13.28.41
+[2020.03.02-12.28.41:426][100]LogWorld: Bringing up level for play took: 0.001368
+[2020.03.02-12.28.41:426][100]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.03.02-12.28.41:430][100]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0.072
+[2020.03.02-12.28.41:430][100]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.28.50:462][641]LogBlueprintUserMessages: [UpgradeMenu_C_1] 0
+[2020.03.02-12.28.51:062][677]LogBlueprintUserMessages: [UpgradeMenu_C_1] 0
+[2020.03.02-12.28.51:262][689]LogBlueprintUserMessages: [UpgradeMenu_C_1] 0
+[2020.03.02-12.28.51:445][700]LogBlueprintUserMessages: [UpgradeMenu_C_1] 0
+[2020.03.02-12.28.57:446][ 60]LogBlueprintUserMessages: [UpgradeMenu_C_2] 0
+[2020.03.02-12.28.58:393][115]LogBlueprintUserMessages: [UpgradeMenu_C_2] 0
+[2020.03.02-12.28.59:193][163]LogBlueprintUserMessages: [UpgradeMenu_C_2] 0
+[2020.03.02-12.28.59:393][175]LogBlueprintUserMessages: [UpgradeMenu_C_2] 0
+[2020.03.02-12.28.59:577][186]LogBlueprintUserMessages: [UpgradeMenu_C_2] 0
+[2020.03.02-12.29.23:528][621]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.29.23:528][621]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.29.23:528][621]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.29.23:529][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-12.29.23:529][621]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.02-12.29.23:529][621]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.29.23:529][621]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.02-12.29.23:529][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-12.29.23:552][621]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.02-12.29.23:553][621]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.29.23:558][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-12.29.23:602][621]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.29.23:605][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-12.29.23:611][621]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.03.02-12.29.23:642][623]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.03.02-12.33.21:127][797]BlueprintLog: New page: Compile UpgradeMenu
+[2020.03.02-12.33.21:204][797]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2020.03.02-12.35.06:405][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UpgradeMenu" FILE="../../../../../startup/StartUp/RealeaseGame/Content/UI/UpgradeMenu.uasset" SILENT=true
+[2020.03.02-12.35.06:469][ 28]LogSavePackage: Moving '../../../../../startup/StartUp/RealeaseGame/Saved/UpgradeMenuEDFC598B4E7B9589969364ADAD7F311D.tmp' to '../../../../../startup/StartUp/RealeaseGame/Content/UI/UpgradeMenu.uasset'
+[2020.03.02-12.35.06:491][ 28]AssetCheck: New page: Asset Save: UpgradeMenu
+[2020.03.02-12.35.06:491][ 28]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UpgradeMenu.UpgradeMenu
+[2020.03.02-12.35.07:649][ 98]BlueprintLog: New page: Compile UpgradeMenu
+[2020.03.02-12.35.07:715][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2020.03.02-12.35.09:933][227]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.02-12.35.09:953][227]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.35.09:953][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.02-12.35.09:953][227]PIE: New page: PIE session: TopDownExampleMap (Mar 2, 2020, 2:35:09 PM)
+[2020.03.02-12.35.09:953][227]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.02-12.35.09:971][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017828s)
+[2020.03.02-12.35.09:972][227]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.03.02-12.35.09:973][227]LogPlayLevel: PIE: World Init took: (0.001541s)
+[2020.03.02-12.35.09:973][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.019579s)
+[2020.03.02-12.35.10:020][227]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.03.02-12.35.10:020][227]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.02-12.35.10:020][227]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.02-12.35.10:020][227]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.02-12.35.10:020][227]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.02-12.35.10:020][227]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.02-12.35.10:020][227]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.02-12.35.10:020][227]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.02-12.35.10:020][227]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.02-12.35.10:021][227]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.02-12.35.10:021][227]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.02-12.35.10:032][227]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.02-12.35.10:032][227]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio(SST))
+[2020.03.02-12.35.10:032][227]LogAudioMixer: Display: Is Default: Yes
+[2020.03.02-12.35.10:032][227]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.02-12.35.10:032][227]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.02-12.35.10:032][227]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.02-12.35.10:032][227]LogAudioMixer: Display: Channel Order:
+[2020.03.02-12.35.10:032][227]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.02-12.35.10:032][227]LogAudioMixer: Display: 1: FrontRight
+[2020.03.02-12.35.10:051][227]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.03.02-12.35.10:053][227]LogInit: FAudioDevice initialized.
+[2020.03.02-12.35.10:061][227]LogLoad: Game class is 'RealeaseGameGameMode'
+[2020.03.02-12.35.10:064][227]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.03.02-13.35.10
+[2020.03.02-12.35.10:064][227]LogWorld: Bringing up level for play took: 0.001616
+[2020.03.02-12.35.10:064][227]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.03.02-12.35.10:068][227]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0.709
+[2020.03.02-12.35.10:068][227]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.35.13:515][433]LogBlueprintUserMessages: [UpgradeMenu_C_0] 0
+[2020.03.02-12.35.18:098][708]LogBlueprintUserMessages: [UpgradeMenu_C_0] 0
+[2020.03.02-12.35.18:282][719]LogBlueprintUserMessages: [UpgradeMenu_C_0] 0
+[2020.03.02-12.35.22:033][944]LogBlueprintUserMessages: [UpgradeMenu_C_3] 0
+[2020.03.02-12.35.22:799][990]LogBlueprintUserMessages: [UpgradeMenu_C_3] 0
+[2020.03.02-12.35.31:232][493]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.35.31:232][493]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.35.31:232][493]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.35.31:232][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-12.35.31:232][493]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.02-12.35.31:232][493]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.35.31:232][493]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.02-12.35.31:233][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-12.35.31:254][493]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.02-12.35.31:255][493]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.35.31:260][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-12.35.31:300][493]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.35.31:304][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-12.35.31:310][493]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.03.02-12.35.31:345][495]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.03.02-12.36.06:460][525]BlueprintLog: New page: Compile UpgradeMenu
+[2020.03.02-12.36.06:533][525]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2020.03.02-12.36.13:857][954]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.02-12.36.13:874][954]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.36.13:874][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.02-12.36.13:874][954]PIE: New page: PIE session: TopDownExampleMap (Mar 2, 2020, 2:36:13 PM)
+[2020.03.02-12.36.13:875][954]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.02-12.36.13:891][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016565s)
+[2020.03.02-12.36.13:893][954]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.03.02-12.36.13:894][954]LogPlayLevel: PIE: World Init took: (0.002175s)
+[2020.03.02-12.36.13:894][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.018941s)
+[2020.03.02-12.36.13:949][954]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.03.02-12.36.13:951][954]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.02-12.36.13:951][954]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.02-12.36.13:951][954]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.02-12.36.13:951][954]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.02-12.36.13:951][954]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.02-12.36.13:951][954]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.02-12.36.13:951][954]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.02-12.36.13:951][954]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.02-12.36.13:951][954]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.02-12.36.13:951][954]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.02-12.36.13:962][954]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.02-12.36.13:962][954]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio(SST))
+[2020.03.02-12.36.13:962][954]LogAudioMixer: Display: Is Default: Yes
+[2020.03.02-12.36.13:962][954]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.02-12.36.13:962][954]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.02-12.36.13:962][954]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.02-12.36.13:962][954]LogAudioMixer: Display: Channel Order:
+[2020.03.02-12.36.13:962][954]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.02-12.36.13:962][954]LogAudioMixer: Display: 1: FrontRight
+[2020.03.02-12.36.13:979][954]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.03.02-12.36.13:981][954]LogInit: FAudioDevice initialized.
+[2020.03.02-12.36.13:987][954]LogLoad: Game class is 'RealeaseGameGameMode'
+[2020.03.02-12.36.13:989][954]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.03.02-13.36.13
+[2020.03.02-12.36.13:989][954]LogWorld: Bringing up level for play took: 0.001252
+[2020.03.02-12.36.13:990][954]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.03.02-12.36.13:993][954]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0.635
+[2020.03.02-12.36.13:993][954]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.36.19:874][306]LogBlueprintUserMessages: [UpgradeMenu_C_1] 0
+[2020.03.02-12.36.20:607][350]LogBlueprintUserMessages: [UpgradeMenu_C_1] 0
+[2020.03.02-12.36.20:807][362]LogBlueprintUserMessages: [UpgradeMenu_C_1] 0
+[2020.03.02-12.36.23:459][521]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.36.23:459][521]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.36.23:459][521]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.36.23:459][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-12.36.23:459][521]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.02-12.36.23:459][521]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.36.23:460][521]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.02-12.36.23:460][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-12.36.23:486][521]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.02-12.36.23:486][521]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.36.23:492][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-12.36.23:537][521]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.36.23:541][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-12.36.23:547][521]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2020.03.02-12.36.23:565][522]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.03.02-12.36.41:290][567]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownCPP/Blueprints/WallStraight.WallStraight
+[2020.03.02-12.39.49:331][703]BlueprintLog: New page: Compile WallStraight
+[2020.03.02-12.39.49:764][703]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2020.03.02-12.39.53:214][904]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.02-12.39.53:236][904]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.39.53:236][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.02-12.39.53:236][904]PIE: New page: PIE session: TopDownExampleMap (Mar 2, 2020, 2:39:53 PM)
+[2020.03.02-12.39.53:237][904]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.02-12.39.53:252][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015269s)
+[2020.03.02-12.39.53:254][904]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.03.02-12.39.53:254][904]LogPlayLevel: PIE: World Init took: (0.001812s)
+[2020.03.02-12.39.53:254][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017314s)
+[2020.03.02-12.39.53:311][904]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2020.03.02-12.39.53:313][904]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.02-12.39.53:313][904]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.02-12.39.53:313][904]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.02-12.39.53:313][904]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.02-12.39.53:313][904]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.02-12.39.53:313][904]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.02-12.39.53:313][904]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.02-12.39.53:313][904]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.02-12.39.53:313][904]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.02-12.39.53:314][904]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.02-12.39.53:330][904]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.02-12.39.53:330][904]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio(SST))
+[2020.03.02-12.39.53:330][904]LogAudioMixer: Display: Is Default: Yes
+[2020.03.02-12.39.53:330][904]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.02-12.39.53:330][904]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.02-12.39.53:330][904]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.02-12.39.53:330][904]LogAudioMixer: Display: Channel Order:
+[2020.03.02-12.39.53:330][904]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.02-12.39.53:330][904]LogAudioMixer: Display: 1: FrontRight
+[2020.03.02-12.39.53:351][904]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.03.02-12.39.53:352][904]LogInit: FAudioDevice initialized.
+[2020.03.02-12.39.53:363][904]LogLoad: Game class is 'RealeaseGameGameMode'
+[2020.03.02-12.39.53:365][904]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.03.02-13.39.53
+[2020.03.02-12.39.53:365][904]LogWorld: Bringing up level for play took: 0.001607
+[2020.03.02-12.39.53:366][904]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.03.02-12.39.53:369][904]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0.011
+[2020.03.02-12.39.53:370][904]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.40.03:879][525]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.40.03:879][525]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.40.03:879][525]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.40.03:879][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-12.40.03:879][525]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.02-12.40.03:879][525]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.40.03:880][525]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.02-12.40.03:880][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-12.40.03:911][525]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.02-12.40.03:911][525]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.40.03:917][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-12.40.03:957][525]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.40.03:960][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-12.40.03:964][525]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.03.02-12.40.03:981][526]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.03.02-12.40.17:442][915]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2020.03.02-12.40.32:292][783]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.02-12.40.32:313][783]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.40.32:313][783]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.03.02-12.40.32:351][783]LogPlayLevel: [PlayLevel] Compiling StandardMacros before play...
+[2020.03.02-12.40.32:351][783]LogPlayLevel: [PlayLevel]   Compiling BP_Sky_Sphere as a dependent...
+[2020.03.02-12.40.32:357][783]LogPlayLevel: [PlayLevel]   Compiling Crystal as a dependent...
+[2020.03.02-12.40.32:361][783]LogPlayLevel: [PlayLevel]   Compiling Golem as a dependent...
+[2020.03.02-12.40.32:362][783]LogPlayLevel: [PlayLevel]   Compiling RenderToTextureFunctionLibrary as a dependent...
+[2020.03.02-12.40.32:362][783]LogPlayLevel: [PlayLevel]   Compiling RenderToTextureMacros as a dependent...
+[2020.03.02-12.40.32:362][783]LogPlayLevel: [PlayLevel]   Compiling ThirdPerson_AnimBP as a dependent...
+[2020.03.02-12.40.32:362][783]LogPlayLevel: [PlayLevel]   Compiling Turret as a dependent...
+[2020.03.02-12.40.32:365][783]LogPlayLevel: [PlayLevel]   Compiling WallCurve as a dependent...
+[2020.03.02-12.40.32:367][783]LogPlayLevel: [PlayLevel]   Compiling WallStraight as a dependent...
+[2020.03.02-12.40.32:369][783]LogPlayLevel: [PlayLevel]   Compiling UpgradeMenu as a dependent...
+[2020.03.02-12.40.32:949][783]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2020.03.02-12.40.32:950][783]LogPlayLevel: PlayLevel: Blueprint regeneration took 637 ms (11 blueprints)
+[2020.03.02-12.40.32:950][783]PIE: New page: PIE session: TopDownExampleMap (Mar 2, 2020, 2:40:32 PM)
+[2020.03.02-12.40.32:950][783]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.02-12.40.32:961][783]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011242s)
+[2020.03.02-12.40.32:962][783]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.03.02-12.40.32:963][783]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2020.03.02-12.40.32:963][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.012534s)
+[2020.03.02-12.40.33:011][783]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.03.02-12.40.33:013][783]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.02-12.40.33:013][783]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.02-12.40.33:013][783]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.02-12.40.33:013][783]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.02-12.40.33:013][783]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.02-12.40.33:013][783]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.02-12.40.33:013][783]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.02-12.40.33:013][783]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.02-12.40.33:013][783]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.02-12.40.33:013][783]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.02-12.40.33:023][783]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.02-12.40.33:023][783]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio(SST))
+[2020.03.02-12.40.33:023][783]LogAudioMixer: Display: Is Default: Yes
+[2020.03.02-12.40.33:023][783]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.02-12.40.33:023][783]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.02-12.40.33:023][783]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.02-12.40.33:023][783]LogAudioMixer: Display: Channel Order:
+[2020.03.02-12.40.33:023][783]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.02-12.40.33:023][783]LogAudioMixer: Display: 1: FrontRight
+[2020.03.02-12.40.33:048][783]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.03.02-12.40.33:050][783]LogInit: FAudioDevice initialized.
+[2020.03.02-12.40.33:116][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-12.40.33:116][783]LogLoad: Game class is 'RealeaseGameGameMode'
+[2020.03.02-12.40.33:119][783]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.03.02-13.40.33
+[2020.03.02-12.40.33:120][783]LogWorld: Bringing up level for play took: 0.002348
+[2020.03.02-12.40.33:120][783]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.03.02-12.40.33:125][783]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 1.767
+[2020.03.02-12.40.33:125][783]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.40.33:194][784]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2020.03.02-12.41.01:889][494]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.41.01:889][494]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.41.01:889][494]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.41.01:889][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-12.41.01:889][494]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.02-12.41.01:904][494]LogSlate: Window 'RealeaseGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.02-12.41.01:907][494]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.41.01:907][494]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.02-12.41.01:908][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-12.41.01:928][494]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.02-12.41.01:928][494]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.41.01:936][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-12.41.01:995][494]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.41.02:005][494]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2020.03.02-12.41.02:017][495]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.03.02-12.42.39:824][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownCPP/Blueprints/WallStraight" FILE="../../../../../startup/StartUp/RealeaseGame/Content/TopDownCPP/Blueprints/WallStraight.uasset" SILENT=true
+[2020.03.02-12.42.39:875][288]LogSavePackage: Moving '../../../../../startup/StartUp/RealeaseGame/Saved/WallStraight0495FC594B202317404859A355ABA55A.tmp' to '../../../../../startup/StartUp/RealeaseGame/Content/TopDownCPP/Blueprints/WallStraight.uasset'
+[2020.03.02-12.42.39:901][288]AssetCheck: New page: Asset Save: WallStraight
+[2020.03.02-12.42.39:901][288]LogContentValidation: Display: Validating Blueprint /Game/TopDownCPP/Blueprints/WallStraight.WallStraight
+[2020.03.02-12.42.47:523][741]BlueprintLog: New page: Compile WallStraight
+[2020.03.02-12.42.47:876][741]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2020.03.02-12.42.49:738][849]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.02-12.42.49:761][849]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.42.49:761][849]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.03.02-12.42.49:803][849]LogPlayLevel: [PlayLevel] Compiling StandardMacros before play...
+[2020.03.02-12.42.49:803][849]LogPlayLevel: [PlayLevel]   Compiling BP_Sky_Sphere as a dependent...
+[2020.03.02-12.42.49:808][849]LogPlayLevel: [PlayLevel]   Compiling Crystal as a dependent...
+[2020.03.02-12.42.49:811][849]LogPlayLevel: [PlayLevel]   Compiling Golem as a dependent...
+[2020.03.02-12.42.49:811][849]LogPlayLevel: [PlayLevel]   Compiling RenderToTextureFunctionLibrary as a dependent...
+[2020.03.02-12.42.49:811][849]LogPlayLevel: [PlayLevel]   Compiling RenderToTextureMacros as a dependent...
+[2020.03.02-12.42.49:811][849]LogPlayLevel: [PlayLevel]   Compiling ThirdPerson_AnimBP as a dependent...
+[2020.03.02-12.42.49:812][849]LogPlayLevel: [PlayLevel]   Compiling Turret as a dependent...
+[2020.03.02-12.42.49:813][849]LogPlayLevel: [PlayLevel]   Compiling WallCurve as a dependent...
+[2020.03.02-12.42.49:816][849]LogPlayLevel: [PlayLevel]   Compiling WallStraight as a dependent...
+[2020.03.02-12.42.49:817][849]LogPlayLevel: [PlayLevel]   Compiling UpgradeMenu as a dependent...
+[2020.03.02-12.42.50:355][849]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2020.03.02-12.42.50:355][849]LogPlayLevel: PlayLevel: Blueprint regeneration took 593 ms (11 blueprints)
+[2020.03.02-12.42.50:355][849]PIE: New page: PIE session: TopDownExampleMap (Mar 2, 2020, 2:42:50 PM)
+[2020.03.02-12.42.50:356][849]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.02-12.42.50:370][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014666s)
+[2020.03.02-12.42.50:372][849]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.03.02-12.42.50:372][849]LogPlayLevel: PIE: World Init took: (0.001442s)
+[2020.03.02-12.42.50:372][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016303s)
+[2020.03.02-12.42.50:427][849]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.03.02-12.42.50:428][849]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.02-12.42.50:428][849]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.02-12.42.50:428][849]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.02-12.42.50:428][849]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.02-12.42.50:428][849]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.02-12.42.50:428][849]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.02-12.42.50:428][849]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.02-12.42.50:428][849]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.02-12.42.50:428][849]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.02-12.42.50:428][849]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.02-12.42.50:440][849]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.02-12.42.50:440][849]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio(SST))
+[2020.03.02-12.42.50:440][849]LogAudioMixer: Display: Is Default: Yes
+[2020.03.02-12.42.50:440][849]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.02-12.42.50:440][849]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.02-12.42.50:440][849]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.02-12.42.50:440][849]LogAudioMixer: Display: Channel Order:
+[2020.03.02-12.42.50:440][849]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.02-12.42.50:440][849]LogAudioMixer: Display: 1: FrontRight
+[2020.03.02-12.42.50:460][849]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.03.02-12.42.50:461][849]LogInit: FAudioDevice initialized.
+[2020.03.02-12.42.50:470][849]LogLoad: Game class is 'RealeaseGameGameMode'
+[2020.03.02-12.42.50:472][849]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.03.02-13.42.50
+[2020.03.02-12.42.50:472][849]LogWorld: Bringing up level for play took: 0.001379
+[2020.03.02-12.42.50:472][849]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.03.02-12.42.50:477][849]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 1.119
+[2020.03.02-12.42.50:477][849]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.42.58:371][312]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.42.58:371][312]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.42.58:371][312]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.42.58:372][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-12.42.58:372][312]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.02-12.42.58:372][312]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.42.58:372][312]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.02-12.42.58:372][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-12.42.58:386][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.02-12.42.58:386][312]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.42.58:392][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-12.42.58:441][312]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.42.58:445][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-12.42.58:451][312]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2020.03.02-12.42.58:472][313]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.03.02-12.42.59:639][379]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.02-12.42.59:662][379]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.42.59:662][379]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.02-12.42.59:662][379]PIE: New page: PIE session: TopDownExampleMap (Mar 2, 2020, 2:42:59 PM)
+[2020.03.02-12.42.59:662][379]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.02-12.42.59:677][379]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014564s)
+[2020.03.02-12.42.59:678][379]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.03.02-12.42.59:679][379]LogPlayLevel: PIE: World Init took: (0.001292s)
+[2020.03.02-12.42.59:679][379]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016106s)
+[2020.03.02-12.42.59:736][379]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.03.02-12.42.59:739][379]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.02-12.42.59:739][379]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.02-12.42.59:739][379]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.02-12.42.59:739][379]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.02-12.42.59:739][379]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.02-12.42.59:739][379]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.02-12.42.59:739][379]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.02-12.42.59:739][379]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.02-12.42.59:739][379]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.02-12.42.59:739][379]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.02-12.42.59:748][379]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.02-12.42.59:748][379]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio(SST))
+[2020.03.02-12.42.59:748][379]LogAudioMixer: Display: Is Default: Yes
+[2020.03.02-12.42.59:748][379]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.02-12.42.59:748][379]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.02-12.42.59:748][379]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.02-12.42.59:748][379]LogAudioMixer: Display: Channel Order:
+[2020.03.02-12.42.59:748][379]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.02-12.42.59:748][379]LogAudioMixer: Display: 1: FrontRight
+[2020.03.02-12.42.59:767][379]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.03.02-12.42.59:769][379]LogInit: FAudioDevice initialized.
+[2020.03.02-12.42.59:776][379]LogLoad: Game class is 'RealeaseGameGameMode'
+[2020.03.02-12.42.59:778][379]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.03.02-13.42.59
+[2020.03.02-12.42.59:779][379]LogWorld: Bringing up level for play took: 0.001522
+[2020.03.02-12.42.59:779][379]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.03.02-12.42.59:783][379]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0.425
+[2020.03.02-12.42.59:783][379]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.43.11:103][ 56]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.43.11:103][ 56]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.43.11:103][ 56]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.43.11:103][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-12.43.11:103][ 56]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.02-12.43.11:104][ 56]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.43.11:104][ 56]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.02-12.43.11:104][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-12.43.11:118][ 56]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.02-12.43.11:119][ 56]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.43.11:125][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-12.43.11:174][ 56]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.43.11:176][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-12.43.11:182][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.03.02-12.43.11:211][ 57]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.03.02-12.43.43:900][983]BlueprintLog: New page: Compile WallStraight
+[2020.03.02-12.43.44:245][983]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2020.03.02-12.43.48:330][216]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.02-12.43.48:353][216]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.43.48:353][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.02-12.43.48:353][216]PIE: New page: PIE session: TopDownExampleMap (Mar 2, 2020, 2:43:48 PM)
+[2020.03.02-12.43.48:354][216]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.02-12.43.48:371][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017070s)
+[2020.03.02-12.43.48:372][216]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.03.02-12.43.48:373][216]LogPlayLevel: PIE: World Init took: (0.001842s)
+[2020.03.02-12.43.48:373][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.019182s)
+[2020.03.02-12.43.48:438][216]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2020.03.02-12.43.48:440][216]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.02-12.43.48:440][216]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.02-12.43.48:440][216]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.02-12.43.48:440][216]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.02-12.43.48:440][216]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.02-12.43.48:440][216]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.02-12.43.48:440][216]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.02-12.43.48:440][216]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.02-12.43.48:441][216]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.02-12.43.48:441][216]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.02-12.43.48:451][216]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.02-12.43.48:451][216]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio(SST))
+[2020.03.02-12.43.48:451][216]LogAudioMixer: Display: Is Default: Yes
+[2020.03.02-12.43.48:451][216]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.02-12.43.48:452][216]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.02-12.43.48:452][216]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.02-12.43.48:452][216]LogAudioMixer: Display: Channel Order:
+[2020.03.02-12.43.48:452][216]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.02-12.43.48:452][216]LogAudioMixer: Display: 1: FrontRight
+[2020.03.02-12.43.48:472][216]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.03.02-12.43.48:473][216]LogInit: FAudioDevice initialized.
+[2020.03.02-12.43.48:484][216]LogLoad: Game class is 'RealeaseGameGameMode'
+[2020.03.02-12.43.48:486][216]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.03.02-13.43.48
+[2020.03.02-12.43.48:487][216]LogWorld: Bringing up level for play took: 0.001467
+[2020.03.02-12.43.48:487][216]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.03.02-12.43.48:491][216]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 1.133
+[2020.03.02-12.43.48:491][216]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.43.51:981][419]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.43.51:981][419]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.43.51:981][419]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.43.51:982][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-12.43.51:982][419]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.02-12.43.51:982][419]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.43.51:982][419]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.02-12.43.51:982][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-12.43.52:000][419]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.02-12.43.52:000][419]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.43.52:006][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-12.43.52:054][419]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.43.52:057][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-12.43.52:062][419]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.03.02-12.43.52:080][420]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.03.02-12.44.38:057][ 71]BlueprintLog: New page: Compile UpgradeMenu
+[2020.03.02-12.44.38:140][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2020.03.02-12.44.40:625][217]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.02-12.44.40:648][217]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.44.40:649][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.02-12.44.40:649][217]PIE: New page: PIE session: TopDownExampleMap (Mar 2, 2020, 2:44:40 PM)
+[2020.03.02-12.44.40:649][217]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.02-12.44.40:665][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016197s)
+[2020.03.02-12.44.40:666][217]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.03.02-12.44.40:667][217]LogPlayLevel: PIE: World Init took: (0.001628s)
+[2020.03.02-12.44.40:667][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.018011s)
+[2020.03.02-12.44.40:733][217]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2020.03.02-12.44.40:734][217]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.02-12.44.40:734][217]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.02-12.44.40:734][217]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.02-12.44.40:734][217]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.02-12.44.40:734][217]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.02-12.44.40:734][217]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.02-12.44.40:734][217]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.02-12.44.40:734][217]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.02-12.44.40:734][217]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.02-12.44.40:734][217]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.02-12.44.40:744][217]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.02-12.44.40:745][217]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio(SST))
+[2020.03.02-12.44.40:745][217]LogAudioMixer: Display: Is Default: Yes
+[2020.03.02-12.44.40:745][217]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.02-12.44.40:745][217]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.02-12.44.40:745][217]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.02-12.44.40:745][217]LogAudioMixer: Display: Channel Order:
+[2020.03.02-12.44.40:745][217]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.02-12.44.40:745][217]LogAudioMixer: Display: 1: FrontRight
+[2020.03.02-12.44.40:766][217]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.03.02-12.44.40:767][217]LogInit: FAudioDevice initialized.
+[2020.03.02-12.44.40:775][217]LogLoad: Game class is 'RealeaseGameGameMode'
+[2020.03.02-12.44.40:778][217]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.03.02-13.44.40
+[2020.03.02-12.44.40:778][217]LogWorld: Bringing up level for play took: 0.001390
+[2020.03.02-12.44.40:778][217]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.03.02-12.44.40:782][217]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap -0.576
+[2020.03.02-12.44.40:782][217]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.44.45:957][520]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.44.45:957][520]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.44.45:957][520]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.44.45:957][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-12.44.45:957][520]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.02-12.44.45:957][520]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.44.45:957][520]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.02-12.44.45:958][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-12.44.45:976][520]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.02-12.44.45:976][520]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.44.45:982][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-12.44.46:031][520]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.44.46:035][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-12.44.46:040][520]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.03.02-12.44.46:062][521]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.03.02-12.44.46:921][567]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.02-12.44.46:944][567]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.44.46:944][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.02-12.44.46:944][567]PIE: New page: PIE session: TopDownExampleMap (Mar 2, 2020, 2:44:46 PM)
+[2020.03.02-12.44.46:944][567]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.02-12.44.46:959][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015049s)
+[2020.03.02-12.44.46:960][567]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.03.02-12.44.46:960][567]LogPlayLevel: PIE: World Init took: (0.001282s)
+[2020.03.02-12.44.46:960][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016518s)
+[2020.03.02-12.44.47:015][567]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.03.02-12.44.47:016][567]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.02-12.44.47:016][567]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.02-12.44.47:016][567]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.02-12.44.47:017][567]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.02-12.44.47:017][567]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.02-12.44.47:017][567]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.02-12.44.47:017][567]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.02-12.44.47:017][567]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.02-12.44.47:017][567]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.02-12.44.47:017][567]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.02-12.44.47:027][567]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.02-12.44.47:027][567]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio(SST))
+[2020.03.02-12.44.47:027][567]LogAudioMixer: Display: Is Default: Yes
+[2020.03.02-12.44.47:027][567]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.02-12.44.47:027][567]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.02-12.44.47:027][567]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.02-12.44.47:027][567]LogAudioMixer: Display: Channel Order:
+[2020.03.02-12.44.47:027][567]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.02-12.44.47:027][567]LogAudioMixer: Display: 1: FrontRight
+[2020.03.02-12.44.47:046][567]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.03.02-12.44.47:048][567]LogInit: FAudioDevice initialized.
+[2020.03.02-12.44.47:061][567]LogLoad: Game class is 'RealeaseGameGameMode'
+[2020.03.02-12.44.47:063][567]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.03.02-13.44.47
+[2020.03.02-12.44.47:063][567]LogWorld: Bringing up level for play took: 0.001390
+[2020.03.02-12.44.47:064][567]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.03.02-12.44.47:067][567]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap -0.291
+[2020.03.02-12.44.47:068][567]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.45.04:208][585]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.45.04:208][585]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.45.04:208][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.45.04:209][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-12.45.04:209][585]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.02-12.45.04:209][585]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.45.04:209][585]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.02-12.45.04:209][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-12.45.04:222][585]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.02-12.45.04:222][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.45.04:229][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-12.45.04:277][585]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-12.45.04:280][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-12.45.04:285][585]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.03.02-12.45.04:320][587]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.03.02-12.45.25:867][873]LogEditorViewport: Clicking on Actor (LMB): WallStraight_C (WallStraight3)
+[2020.03.02-12.45.51:206][388]LogEditorViewport: Clicking on Actor (LMB): WallStraight_C (WallStraight3)
+[2020.03.02-12.45.51:822][424]LogEditorViewport: Clicking on Actor (LMB): WallStraight_C (WallStraight3)
+[2020.03.02-12.45.51:920][429]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (WallStraight)
+[2020.03.02-12.45.52:179][432]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (WallStraight)
+[2020.03.02-12.45.53:299][498]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (WallStraight)
+[2020.03.02-12.46.19:211][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.03.02-12.46.19:550][ 30]LogSavePackage: Moving '../../../../../startup/StartUp/RealeaseGame/Saved/TopDownExampleMap_Auto250B16EA4473AAA24C7FF5EB695A809FE.tmp' to '../../../../../startup/StartUp/RealeaseGame/Saved/Autosaves/Game/TopDownCPP/Maps/TopDownExampleMap_Auto2.umap'
+[2020.03.02-12.46.19:552][ 30]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownCPP/Maps/TopDownExampleMap' took 0.393
+[2020.03.02-12.46.19:552][ 30]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.393
+[2020.03.02-12.46.19:552][ 30]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/EditorBlueprintResources/StandardMacros] ([1] browsable assets)...
+[2020.03.02-12.46.19:552][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EditorBlueprintResources/StandardMacros]
+[2020.03.02-12.46.19:625][ 30]LogSavePackage: Moving '../../../../../startup/StartUp/RealeaseGame/Saved/StandardMacros_Auto213E1E6A14D6A9EF59ADCDBB0D0D351F4.tmp' to '../../../../../startup/StartUp/RealeaseGame/Saved/Autosaves/Engine/EditorBlueprintResources/StandardMacros_Auto2.uasset'
+[2020.03.02-12.46.19:626][ 30]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownCPP/Blueprints/WallCurve] ([1] browsable assets)...
+[2020.03.02-12.46.19:656][ 30]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownCPP/Blueprints/WallCurve.WallCurve]
+[2020.03.02-12.46.19:656][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownCPP/Blueprints/WallCurve]
+[2020.03.02-12.46.19:696][ 30]LogSavePackage: Moving '../../../../../startup/StartUp/RealeaseGame/Saved/WallCurve_Auto2F7BE27214D48CAB673D0BE8D5B910D07.tmp' to '../../../../../startup/StartUp/RealeaseGame/Saved/Autosaves/Game/TopDownCPP/Blueprints/WallCurve_Auto2.uasset'
+[2020.03.02-12.46.19:697][ 30]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/UpgradeMenu] ([1] browsable assets)...
+[2020.03.02-12.46.19:697][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UpgradeMenu]
+[2020.03.02-12.46.19:697][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UpgradeMenu" FILE="../../../../../startup/StartUp/RealeaseGame/Saved/Autosaves/Game/UI/UpgradeMenu_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.02-12.46.19:760][ 30]LogSavePackage: Moving '../../../../../startup/StartUp/RealeaseGame/Saved/UpgradeMenu_Auto2C94952EC4AB177EA5274D38E71BE64CC.tmp' to '../../../../../startup/StartUp/RealeaseGame/Saved/Autosaves/Game/UI/UpgradeMenu_Auto2.uasset'
+[2020.03.02-12.46.19:761][ 30]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownCPP/Blueprints/WallStraight] ([1] browsable assets)...
+[2020.03.02-12.46.19:790][ 30]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownCPP/Blueprints/WallStraight.WallStraight]
+[2020.03.02-12.46.19:790][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownCPP/Blueprints/WallStraight]
+[2020.03.02-12.46.19:825][ 30]LogSavePackage: Moving '../../../../../startup/StartUp/RealeaseGame/Saved/WallStraight_Auto2BDBC4FF349CBAF20C9C13186C24D0689.tmp' to '../../../../../startup/StartUp/RealeaseGame/Saved/Autosaves/Game/TopDownCPP/Blueprints/WallStraight_Auto2.uasset'
+[2020.03.02-12.46.19:826][ 30]LogFileHelpers: Auto-saving content packages took 0.274
+[2020.03.02-12.48.35:503][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.03.02-12.49.01:677][717]LogEditorTransaction: Undo Modify Component(s)
+[2020.03.02-12.57.46:492][903]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2020.03.02-12.57.46:791][903]LogSavePackage: Moving '../../../../../startup/StartUp/RealeaseGame/Saved/TopDownExampleMap_Auto3474066544FC5B22C633D04A552828411.tmp' to '../../../../../startup/StartUp/RealeaseGame/Saved/Autosaves/Game/TopDownCPP/Maps/TopDownExampleMap_Auto3.umap'
+[2020.03.02-12.57.46:793][903]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownCPP/Maps/TopDownExampleMap' took 0.358
+[2020.03.02-12.57.46:793][903]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.358
+[2020.03.02-12.57.46:794][903]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownCPP/Blueprints/WallStraight] ([1] browsable assets)...
+[2020.03.02-12.57.46:826][903]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownCPP/Blueprints/WallStraight.WallStraight]
+[2020.03.02-12.57.46:826][903]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownCPP/Blueprints/WallStraight]
+[2020.03.02-12.57.46:861][903]LogSavePackage: Moving '../../../../../startup/StartUp/RealeaseGame/Saved/WallStraight_Auto3E17AD3B641C2214403F9DA9C204012F2.tmp' to '../../../../../startup/StartUp/RealeaseGame/Saved/Autosaves/Game/TopDownCPP/Blueprints/WallStraight_Auto3.uasset'
+[2020.03.02-12.57.46:861][903]LogFileHelpers: Auto-saving content packages took 0.068
+[2020.03.02-12.59.21:179][648]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.02-12.59.21:205][648]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.59.21:205][648]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.03.02-12.59.21:223][648]LogPlayLevel: [PlayLevel] Compiling WallStraight before play...
+[2020.03.02-12.59.21:563][648]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2020.03.02-12.59.21:564][648]LogPlayLevel: PlayLevel: Blueprint regeneration took 358 ms (1 blueprints)
+[2020.03.02-12.59.21:564][648]PIE: New page: PIE session: TopDownExampleMap (Mar 2, 2020, 2:59:21 PM)
+[2020.03.02-12.59.21:564][648]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.02-12.59.21:577][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012714s)
+[2020.03.02-12.59.21:579][648]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.03.02-12.59.21:579][648]LogPlayLevel: PIE: World Init took: (0.001806s)
+[2020.03.02-12.59.21:579][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.014666s)
+[2020.03.02-12.59.21:630][648]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.03.02-12.59.21:631][648]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.02-12.59.21:631][648]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.02-12.59.21:631][648]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.02-12.59.21:631][648]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.02-12.59.21:631][648]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.02-12.59.21:631][648]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.02-12.59.21:631][648]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.02-12.59.21:631][648]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.02-12.59.21:632][648]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.02-12.59.21:632][648]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.02-12.59.21:643][648]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.02-12.59.21:644][648]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio(SST))
+[2020.03.02-12.59.21:644][648]LogAudioMixer: Display: Is Default: Yes
+[2020.03.02-12.59.21:644][648]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.02-12.59.21:644][648]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.02-12.59.21:644][648]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.02-12.59.21:644][648]LogAudioMixer: Display: Channel Order:
+[2020.03.02-12.59.21:644][648]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.02-12.59.21:644][648]LogAudioMixer: Display: 1: FrontRight
+[2020.03.02-12.59.21:668][648]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.03.02-12.59.21:670][648]LogInit: FAudioDevice initialized.
+[2020.03.02-12.59.21:683][648]LogLoad: Game class is 'RealeaseGameGameMode'
+[2020.03.02-12.59.21:685][648]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.03.02-13.59.21
+[2020.03.02-12.59.21:685][648]LogWorld: Bringing up level for play took: 0.001711
+[2020.03.02-12.59.21:685][648]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.03.02-12.59.21:689][648]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0.331
+[2020.03.02-12.59.21:689][648]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-12.59.27:614][997]LogBlueprintUserMessages: [UpgradeMenu_C_0] 0
+[2020.03.02-12.59.29:881][133]LogBlueprintUserMessages: [UpgradeMenu_C_0] 0
+[2020.03.02-13.00.20:772][178]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-13.00.20:772][178]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-13.00.20:772][178]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-13.00.20:773][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-13.00.20:773][178]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.02-13.00.20:773][178]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-13.00.20:773][178]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.02-13.00.20:773][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-13.00.20:783][178]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.02-13.00.20:783][178]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-13.00.20:788][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-13.00.20:832][178]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-13.00.20:836][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-13.00.20:842][178]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.03.02-13.00.20:873][180]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.03.02-13.00.48:265][813]BlueprintLog: New page: Compile UpgradeMenu
+[2020.03.02-13.00.48:338][813]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2020.03.02-13.00.50:001][908]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.02-13.00.50:021][908]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-13.00.50:022][908]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.02-13.00.50:022][908]PIE: New page: PIE session: TopDownExampleMap (Mar 2, 2020, 3:00:50 PM)
+[2020.03.02-13.00.50:022][908]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.02-13.00.50:035][908]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013638s)
+[2020.03.02-13.00.50:037][908]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.03.02-13.00.50:038][908]LogPlayLevel: PIE: World Init took: (0.001952s)
+[2020.03.02-13.00.50:038][908]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.015862s)
+[2020.03.02-13.00.50:087][908]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2020.03.02-13.00.50:087][908]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.02-13.00.50:087][908]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.02-13.00.50:087][908]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.02-13.00.50:087][908]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.02-13.00.50:087][908]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.02-13.00.50:087][908]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.02-13.00.50:087][908]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.02-13.00.50:087][908]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.02-13.00.50:089][908]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.02-13.00.50:089][908]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.02-13.00.50:096][908]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.02-13.00.50:096][908]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio(SST))
+[2020.03.02-13.00.50:096][908]LogAudioMixer: Display: Is Default: Yes
+[2020.03.02-13.00.50:096][908]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.02-13.00.50:096][908]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.02-13.00.50:096][908]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.02-13.00.50:096][908]LogAudioMixer: Display: Channel Order:
+[2020.03.02-13.00.50:096][908]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.02-13.00.50:096][908]LogAudioMixer: Display: 1: FrontRight
+[2020.03.02-13.00.50:113][908]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.03.02-13.00.50:115][908]LogInit: FAudioDevice initialized.
+[2020.03.02-13.00.50:121][908]LogLoad: Game class is 'RealeaseGameGameMode'
+[2020.03.02-13.00.50:123][908]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.03.02-14.00.50
+[2020.03.02-13.00.50:124][908]LogWorld: Bringing up level for play took: 0.001656
+[2020.03.02-13.00.50:124][908]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.03.02-13.00.50:127][908]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0.769
+[2020.03.02-13.00.50:127][908]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-13.00.56:232][273]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-13.00.56:233][273]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-13.00.56:233][273]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-13.00.56:233][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-13.00.56:233][273]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.02-13.00.56:233][273]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-13.00.56:233][273]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.02-13.00.56:234][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-13.00.56:248][273]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.02-13.00.56:249][273]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-13.00.56:255][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-13.00.56:300][273]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-13.00.56:303][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-13.00.56:308][273]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.03.02-13.00.56:341][275]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.03.02-13.01.45:509][165]BlueprintLog: New page: Compile WallStraight
+[2020.03.02-13.01.45:885][165]LogUObjectHash: Compacting FUObjectHashTables data took   5.97ms
+[2020.03.02-13.01.47:096][228]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.02-13.01.47:120][228]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-13.01.47:120][228]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.03.02-13.01.47:125][228]LogPlayLevel: [PlayLevel] Compiling WallCurve before play...
+[2020.03.02-13.01.47:497][228]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2020.03.02-13.01.47:498][228]LogPlayLevel: PlayLevel: Blueprint regeneration took 377 ms (1 blueprints)
+[2020.03.02-13.01.47:498][228]PIE: New page: PIE session: TopDownExampleMap (Mar 2, 2020, 3:01:47 PM)
+[2020.03.02-13.01.47:498][228]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.02-13.01.47:514][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016088s)
+[2020.03.02-13.01.47:515][228]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.03.02-13.01.47:516][228]LogPlayLevel: PIE: World Init took: (0.001392s)
+[2020.03.02-13.01.47:516][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017699s)
+[2020.03.02-13.01.47:569][228]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.03.02-13.01.47:570][228]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.02-13.01.47:570][228]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.02-13.01.47:570][228]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.02-13.01.47:570][228]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.02-13.01.47:570][228]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.02-13.01.47:570][228]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.02-13.01.47:570][228]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.02-13.01.47:570][228]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.02-13.01.47:570][228]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.02-13.01.47:570][228]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.02-13.01.47:580][228]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.02-13.01.47:580][228]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio(SST))
+[2020.03.02-13.01.47:580][228]LogAudioMixer: Display: Is Default: Yes
+[2020.03.02-13.01.47:580][228]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.02-13.01.47:580][228]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.02-13.01.47:580][228]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.02-13.01.47:580][228]LogAudioMixer: Display: Channel Order:
+[2020.03.02-13.01.47:580][228]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.02-13.01.47:580][228]LogAudioMixer: Display: 1: FrontRight
+[2020.03.02-13.01.47:599][228]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.03.02-13.01.47:601][228]LogInit: FAudioDevice initialized.
+[2020.03.02-13.01.47:611][228]LogLoad: Game class is 'RealeaseGameGameMode'
+[2020.03.02-13.01.47:613][228]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.03.02-14.01.47
+[2020.03.02-13.01.47:614][228]LogWorld: Bringing up level for play took: 0.001442
+[2020.03.02-13.01.47:614][228]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.03.02-13.01.47:618][228]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0.259
+[2020.03.02-13.01.47:618][228]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-13.01.59:310][921]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-13.01.59:310][921]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-13.01.59:310][921]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-13.01.59:310][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-13.01.59:310][921]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.02-13.01.59:310][921]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-13.01.59:311][921]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.02-13.01.59:311][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-13.01.59:334][921]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.02-13.01.59:335][921]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.02-13.01.59:340][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-13.01.59:394][921]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-13.01.59:397][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-13.01.59:403][921]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.03.02-13.01.59:421][922]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.03.02-13.05.16:054][613]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Geometry/ImportedGeometry/testlp.testlp
+[2020.03.02-13.05.17:454][614]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2020.03.02-13.09.16:499][922]LogUObjectHash: Compacting FUObjectHashTables data took   7.38ms
+[2020.03.02-13.09.16:950][922]LogSavePackage: Moving '../../../../../startup/StartUp/RealeaseGame/Saved/TopDownExampleMap_Auto4694504F9449FD37835FD99B34EAD305A.tmp' to '../../../../../startup/StartUp/RealeaseGame/Saved/Autosaves/Game/TopDownCPP/Maps/TopDownExampleMap_Auto4.umap'
+[2020.03.02-13.09.16:953][922]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownCPP/Maps/TopDownExampleMap' took 0.625
+[2020.03.02-13.09.16:953][922]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.625
+[2020.03.02-13.09.16:953][922]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownCPP/Blueprints/WallCurve] ([1] browsable assets)...
+[2020.03.02-13.09.16:982][922]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownCPP/Blueprints/WallCurve.WallCurve]
+[2020.03.02-13.09.16:983][922]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownCPP/Blueprints/WallCurve]
+[2020.03.02-13.09.17:029][922]LogSavePackage: Moving '../../../../../startup/StartUp/RealeaseGame/Saved/WallCurve_Auto4D5FAFFF9414EDB43AE19EF8511D737B7.tmp' to '../../../../../startup/StartUp/RealeaseGame/Saved/Autosaves/Game/TopDownCPP/Blueprints/WallCurve_Auto4.uasset'
+[2020.03.02-13.09.17:030][922]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/UpgradeMenu] ([1] browsable assets)...
+[2020.03.02-13.09.17:030][922]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UpgradeMenu]
+[2020.03.02-13.09.17:030][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UpgradeMenu" FILE="../../../../../startup/StartUp/RealeaseGame/Saved/Autosaves/Game/UI/UpgradeMenu_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2020.03.02-13.09.17:095][922]LogSavePackage: Moving '../../../../../startup/StartUp/RealeaseGame/Saved/UpgradeMenu_Auto49F2C57254198752498C8B7950C5AC26E.tmp' to '../../../../../startup/StartUp/RealeaseGame/Saved/Autosaves/Game/UI/UpgradeMenu_Auto4.uasset'
+[2020.03.02-13.09.17:096][922]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownCPP/Blueprints/WallStraight] ([1] browsable assets)...
+[2020.03.02-13.09.17:126][922]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownCPP/Blueprints/WallStraight.WallStraight]
+[2020.03.02-13.09.17:126][922]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownCPP/Blueprints/WallStraight]
+[2020.03.02-13.09.17:166][922]LogSavePackage: Moving '../../../../../startup/StartUp/RealeaseGame/Saved/WallStraight_Auto433CFCE834A8EC3EB4DA118BDCE308719.tmp' to '../../../../../startup/StartUp/RealeaseGame/Saved/Autosaves/Game/TopDownCPP/Blueprints/WallStraight_Auto4.uasset'
+[2020.03.02-13.09.17:167][922]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/ImportedGeometry/testlp] ([1] browsable assets)...
+[2020.03.02-13.09.17:197][922]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/ImportedGeometry/testlp.testlp]
+[2020.03.02-13.09.17:197][922]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/ImportedGeometry/testlp]
+[2020.03.02-13.09.17:225][922]LogSavePackage: Moving '../../../../../startup/StartUp/RealeaseGame/Saved/testlp_Auto42570D24C4292AA7913BAEAAD01094A47.tmp' to '../../../../../startup/StartUp/RealeaseGame/Saved/Autosaves/Game/Geometry/ImportedGeometry/testlp_Auto4.uasset'
+[2020.03.02-13.09.17:225][922]LogFileHelpers: Auto-saving content packages took 0.273
+[2020.03.02-13.09.26:238][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/ImportedGeometry/testlp" FILE="../../../../../startup/StartUp/RealeaseGame/Content/Geometry/ImportedGeometry/testlp.uasset" SILENT=true
+[2020.03.02-13.09.26:251][319]LogSavePackage: Moving '../../../../../startup/StartUp/RealeaseGame/Saved/testlp57A8D86E469970AD8F22F7A91E86B1C2.tmp' to '../../../../../startup/StartUp/RealeaseGame/Content/Geometry/ImportedGeometry/testlp.uasset'
+[2020.03.02-13.09.26:284][319]AssetCheck: New page: Asset Save: testlp
+[2020.03.02-13.09.26:284][319]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/ImportedGeometry/testlp.testlp
+[2020.03.02-13.10.41:277][948]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.03.02-13.10.41:277][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-13.10.46:513][238]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownCPP/Blueprints/WallStraight.WallStraight
+[2020.03.02-13.14.01:212][153]LogEditorTransaction: Undo Edit Preview Static Mesh
+[2020.03.02-13.25.14:487][648]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.02-13.25.16:988][648]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.02-13.25.17:491][648]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.02-13.25.20:957][648]LogRHI: Error: SyncInterval 0
+[2020.03.02-13.25.20:958][648]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2020.03.02-13.25.20:958][648]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1056
+[2020.03.02-13.25.20:958][648]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.03.02-13.25.20:958][648]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.03.02-13.25.20:958][648]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.03.02-13.25.20:958][648]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.03.02-13.25.20:958][648]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.03.02-13.25.20:958][648]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.03.02-13.25.20:958][648]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.03.02-13.25.20:958][648]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.03.02-13.25.20:958][648]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2020.03.02-13.25.20:958][648]LogRHI: Error: SwapChainDesc.OutputWindow 00000000000A0796
+[2020.03.02-13.25.20:959][648]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.03.02-13.25.20:959][648]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2020.03.02-13.25.20:959][648]LogRHI: Error: SwapChainDesc.Flags 2050
+[2020.03.02-13.25.20:959][648]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Viewport.cpp:389 
+ with error DXGI_ERROR_DEVICE_REMOVED 00000000
+[2020.03.02-13.25.20:959][648]LogD3D11RHI: [Aftermath] GDynamicRHI=000001437C3C20C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2020.03.02-13.25.20:959][648]LogWindows: Windows GetLastError: The operation completed successfully. (0)
