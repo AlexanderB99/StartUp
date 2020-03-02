@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 		"D:\\startup\\StartUp\\RealeaseGame\\Source\\RealeaseGame\\RealeaseGame.Build.cs",
 		"D:\\startup\\StartUp\\RealeaseGame\\Source\\RealeaseGame.Target.cs",
 		"D:\\startup\\StartUp\\RealeaseGame\\Source\\RealeaseGameEditor.Target.cs"
@@ -21,6 +22,11 @@
 		"D:\\Project 3rd quartile\\RealeaseGame\\Source\\RealeaseGame.Target.cs",
 		"D:\\Project 3rd quartile\\RealeaseGame\\Source\\RealeaseGameEditor.Target.cs"
 >>>>>>> 3f755f4... Added simple building system
+=======
+		"D:\\Project 3rd quartile\\RealeaseGame\\Source\\RealeaseGame\\RealeaseGame.Build.cs",
+		"D:\\Project 3rd quartile\\RealeaseGame\\Source\\RealeaseGame.Target.cs",
+		"D:\\Project 3rd quartile\\RealeaseGame\\Source\\RealeaseGameEditor.Target.cs"
+>>>>>>> Sebi
 	],
 	"EngineVersion": "4.24.2"
 }

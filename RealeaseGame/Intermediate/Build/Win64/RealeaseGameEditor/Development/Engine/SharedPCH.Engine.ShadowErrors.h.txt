@@ -1,9 +1,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 D:/startup/StartUp/RealeaseGame/Intermediate/Build/Win64/RealeaseGameEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h
 =======
 D:/Project 3rd quartile/RealeaseGame/Intermediate/Build/Win64/RealeaseGameEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h
 >>>>>>> 3f755f4... Added simple building system
+=======
+D:/Project 3rd quartile/RealeaseGame/Intermediate/Build/Win64/RealeaseGameEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h
+>>>>>>> Sebi
 D:/Unreal/UE_4.24/Engine/Source/Runtime/Engine/Public/EngineSharedPCH.h
 D:\Unreal\UE_4.24\Engine\Source\Runtime\Core\Public\Containers/ContainersFwd.h
 D:\Unreal\UE_4.24\Engine\Source\Runtime\Core\Public\CoreTypes.h

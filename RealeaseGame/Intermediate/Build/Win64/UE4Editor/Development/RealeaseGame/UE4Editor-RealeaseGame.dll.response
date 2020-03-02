@@ -41,6 +41,7 @@
 /FUNCTIONPADMIN
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "D:\startup\StartUp\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 "D:\startup\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\RealeaseGame.cpp.obj"
 "D:\startup\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\RealeaseGameCharacter.cpp.obj"
@@ -64,6 +65,8 @@
 "E:\BaseDefenseGit\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Default.rc2.res"
 >>>>>>> cb36693... Imported models and textures
 =======
+=======
+>>>>>>> Sebi
 "D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 "D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\RealeaseGame.cpp.obj"
 "D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\RealeaseGameCharacter.cpp.obj"
@@ -74,7 +77,10 @@
 "D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\RealeaseGameGameMode.gen.cpp.obj"
 "D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\RealeaseGamePlayerController.gen.cpp.obj"
 "D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Default.rc2.res"
+<<<<<<< HEAD
 >>>>>>> 3f755f4... Added simple building system
+=======
+>>>>>>> Sebi
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"
@@ -108,6 +114,7 @@
 "D:\Unreal\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Development\NavigationSystem\UE4Editor-NavigationSystem.lib"
 "D:\Unreal\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Development\AIModule\UE4Editor-AIModule.lib"
 <<<<<<< HEAD
+<<<<<<< HEAD
 /OUT:"D:\startup\StartUp\RealeaseGame\Binaries\Win64\UE4Editor-RealeaseGame.dll"
 /IMPLIB:"D:\startup\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\UE4Editor-RealeaseGame.suppressed.lib"
 /PDB:"D:\startup\StartUp\RealeaseGame\Binaries\Win64\UE4Editor-RealeaseGame.pdb"
@@ -128,5 +135,10 @@
 /IMPLIB:"D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\UE4Editor-RealeaseGame.suppressed.lib"
 /PDB:"D:\Project 3rd quartile\RealeaseGame\Binaries\Win64\UE4Editor-RealeaseGame.pdb"
 >>>>>>> 3f755f4... Added simple building system
+=======
+/OUT:"D:\Project 3rd quartile\RealeaseGame\Binaries\Win64\UE4Editor-RealeaseGame.dll"
+/IMPLIB:"D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\UE4Editor-RealeaseGame.suppressed.lib"
+/PDB:"D:\Project 3rd quartile\RealeaseGame\Binaries\Win64\UE4Editor-RealeaseGame.pdb"
+>>>>>>> Sebi
 /ignore:4078
 /INCLUDE:IMPLEMENT_MODULE_RealeaseGame

@@ -1,9 +1,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 D:\startup\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h
 =======
 D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h
 >>>>>>> 3f755f4... Added simple building system
+=======
+D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h
+>>>>>>> Sebi
 D:\Unreal\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 D:\Unreal\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
 D:\Project 3rd quartile\RealeaseGame\Source\RealeaseGame/RealeaseGameGameMode.h
@@ -11,6 +15,7 @@ D:\Unreal\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBas
 D:\Unreal\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 D:\Unreal\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 D:\Unreal\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+<<<<<<< HEAD
 <<<<<<< HEAD
 d:\startup\startup\realeasegame\intermediate\build\win64\ue4editor\inc\realeasegame\RealeaseGameGameMode.generated.h
 =======
@@ -27,3 +32,6 @@ E:\BaseDefenseGit\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Inc\Re
 =======
 d:\project 3rd quartile\realeasegame\intermediate\build\win64\ue4editor\inc\realeasegame\RealeaseGameGameMode.generated.h
 >>>>>>> 3f755f4... Added simple building system
+=======
+d:\project 3rd quartile\realeasegame\intermediate\build\win64\ue4editor\inc\realeasegame\RealeaseGameGameMode.generated.h
+>>>>>>> Sebi

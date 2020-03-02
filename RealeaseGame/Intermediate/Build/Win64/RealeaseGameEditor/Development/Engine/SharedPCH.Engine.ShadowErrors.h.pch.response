@@ -259,6 +259,7 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
 <<<<<<< HEAD
+<<<<<<< HEAD
 /I D:\startup\StartUp\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\Engine
 /Yc"D:\startup\StartUp\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
 /Fp"D:\startup\StartUp\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
@@ -278,12 +279,17 @@
 /Fo"E:\BaseDefenseGit\StartUp\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 >>>>>>> cb36693... Imported models and textures
 =======
+=======
+>>>>>>> Sebi
 /I "D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\Engine"
 /Yc"D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
 /Fp"D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
 "D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.cpp"
 /Fo"D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+<<<<<<< HEAD
 >>>>>>> 3f755f4... Added simple building system
+=======
+>>>>>>> Sebi
 /TP
 /GR-
 /W4

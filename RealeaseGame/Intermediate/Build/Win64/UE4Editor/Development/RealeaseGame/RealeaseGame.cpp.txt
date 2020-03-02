@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 D:\startup\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h
 d:\startup\startup\realeasegame\source\realeasegame\RealeaseGame.h
 =======
@@ -10,3 +11,7 @@ E:\BaseDefenseGit\StartUp\RealeaseGame\Source\RealeaseGame\RealeaseGame.h
 D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h
 d:\project 3rd quartile\realeasegame\source\realeasegame\RealeaseGame.h
 >>>>>>> 3f755f4... Added simple building system
+=======
+D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h
+d:\project 3rd quartile\realeasegame\source\realeasegame\RealeaseGame.h
+>>>>>>> Sebi

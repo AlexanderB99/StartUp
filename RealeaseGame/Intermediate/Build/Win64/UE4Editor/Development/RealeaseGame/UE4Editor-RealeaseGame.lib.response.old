@@ -8,6 +8,7 @@
 /IGNORE:4221
 /NODEFAULTLIB
 <<<<<<< HEAD
+<<<<<<< HEAD
 "F:\ProjectStartUp\StartUp\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 "F:\ProjectStartUp\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\RealeaseGame.cpp.obj"
 "F:\ProjectStartUp\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\RealeaseGameCharacter.cpp.obj"
@@ -41,6 +42,8 @@
 /OUT:"F:\ProjectStartUp\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\UE4Editor-RealeaseGame.lib"
 >>>>>>> cb36693... Imported models and textures
 =======
+=======
+>>>>>>> Sebi
 "D:\startup\StartUp\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 "D:\startup\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\RealeaseGame.cpp.obj"
 "D:\startup\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\RealeaseGameCharacter.cpp.obj"
@@ -52,5 +55,8 @@
 "D:\startup\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\RealeaseGamePlayerController.gen.cpp.obj"
 "D:\startup\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Default.rc2.res"
 /OUT:"D:\startup\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\UE4Editor-RealeaseGame.lib"
+<<<<<<< HEAD
 >>>>>>> 3f755f4... Added simple building system
+=======
+>>>>>>> Sebi
 /INCLUDE:IMPLEMENT_MODULE_RealeaseGame

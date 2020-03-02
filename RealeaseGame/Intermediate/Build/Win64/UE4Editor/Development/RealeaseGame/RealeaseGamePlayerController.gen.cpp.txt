@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 D:\startup\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h
 D:\Unreal\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 D:\Unreal\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
@@ -19,3 +20,10 @@ D:\Unreal\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
 D:\Project 3rd quartile\RealeaseGame\Source\RealeaseGame/RealeaseGamePlayerController.h
 d:\project 3rd quartile\realeasegame\intermediate\build\win64\ue4editor\inc\realeasegame\RealeaseGamePlayerController.generated.h
 >>>>>>> 3f755f4... Added simple building system
+=======
+D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h
+D:\Unreal\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Unreal\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Project 3rd quartile\RealeaseGame\Source\RealeaseGame/RealeaseGamePlayerController.h
+d:\project 3rd quartile\realeasegame\intermediate\build\win64\ue4editor\inc\realeasegame\RealeaseGamePlayerController.generated.h
+>>>>>>> Sebi

@@ -8,6 +8,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 02/27/20 12:57:21
 =======
 ﻿Log file open, 02/27/20 12:44:07
@@ -17333,6 +17334,8 @@ Script Stack (0 frames):
 [2020.02.27-18.30.44:400][ 74]Log file closed, 02/27/20 19:30:44
 >>>>>>> 3f755f4... Added simple building system
 =======
+=======
+>>>>>>> Sebi
 ﻿Log file open, 02/27/20 19:34:44
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
@@ -22222,6 +22225,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.28-00.51.48:654][  4]LogD3D11RHI: CleanupD3DDevice
 [2020.02.28-00.51.48:665][  4]LogExit: Exiting.
 [2020.02.28-00.51.48:680][  4]Log file closed, 02/28/20 01:51:48
+<<<<<<< HEAD
 >>>>>>> 13f6b6e... Added building repair, rotation, enemies can now damage walls, you can now close the menu
 =======
 [2020.02.28-10.31.55:220][  0]LogConfig: Setting CVar [[r.VSync:0]]
@@ -25770,3 +25774,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.01-15.38.07:229][607]LogExit: Exiting.
 [2020.03.01-15.38.07:264][607]Log file closed, 03/01/20 16:38:07
 >>>>>>> 7fc8d26... Logs
+=======
+>>>>>>> Sebi

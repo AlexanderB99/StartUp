@@ -5,6 +5,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 			"Path": "D:\\startup\\StartUp\\RealeaseGame\\Source\\RealeaseGame.Target.cs",
 =======
 			"Path": "E:\\BaseDefenseGit\\StartUp\\RealeaseGame\\Source\\RealeaseGame.Target.cs",
@@ -15,10 +16,14 @@
 =======
 			"Path": "D:\\Project 3rd quartile\\RealeaseGame\\Source\\RealeaseGame.Target.cs",
 >>>>>>> 3f755f4... Added simple building system
+=======
+			"Path": "D:\\Project 3rd quartile\\RealeaseGame\\Source\\RealeaseGame.Target.cs",
+>>>>>>> Sebi
 			"Type": "Game"
 		},
 		{
 			"Name": "RealeaseGameEditor",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -32,6 +37,9 @@
 =======
 			"Path": "D:\\Project 3rd quartile\\RealeaseGame\\Source\\RealeaseGameEditor.Target.cs",
 >>>>>>> 3f755f4... Added simple building system
+=======
+			"Path": "D:\\Project 3rd quartile\\RealeaseGame\\Source\\RealeaseGameEditor.Target.cs",
+>>>>>>> Sebi
 			"Type": "Editor"
 		}
 	]

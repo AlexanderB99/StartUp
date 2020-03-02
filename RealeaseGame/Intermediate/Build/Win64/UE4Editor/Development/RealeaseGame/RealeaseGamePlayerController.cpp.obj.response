@@ -33,6 +33,7 @@
 /I .
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 /I D:\startup\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Inc\RealeaseGame
 /I D:\startup\StartUp\RealeaseGame\Source
 =======
@@ -43,6 +44,10 @@
 /I "D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Inc\RealeaseGame"
 /I "D:\Project 3rd quartile\RealeaseGame\Source"
 >>>>>>> 3f755f4... Added simple building system
+=======
+/I "D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Inc\RealeaseGame"
+/I "D:\Project 3rd quartile\RealeaseGame\Source"
+>>>>>>> Sebi
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -273,6 +278,7 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
 <<<<<<< HEAD
+<<<<<<< HEAD
 /FI"D:\startup\StartUp\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
 /Yu"D:\startup\StartUp\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
 /Fp"D:\startup\StartUp\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
@@ -294,13 +300,18 @@
 /Fo"E:\BaseDefenseGit\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\RealeaseGamePlayerController.cpp.obj"
 >>>>>>> cb36693... Imported models and textures
 =======
+=======
+>>>>>>> Sebi
 /FI"D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
 /Yu"D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
 /Fp"D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\RealeaseGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
 "D:\Project 3rd quartile\RealeaseGame\Source\RealeaseGame\RealeaseGamePlayerController.cpp"
 /FI"D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h"
 /Fo"D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\RealeaseGamePlayerController.cpp.obj"
+<<<<<<< HEAD
 >>>>>>> 3f755f4... Added simple building system
+=======
+>>>>>>> Sebi
 /TP
 /GR-
 /W4

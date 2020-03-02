@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 D:\startup\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h
 d:\startup\startup\realeasegame\source\realeasegame\RealeaseGamePlayerController.h
 D:\startup\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Inc\RealeaseGame\RealeaseGamePlayerController.generated.h
@@ -8,6 +9,11 @@ D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Developm
 d:\project 3rd quartile\realeasegame\source\realeasegame\RealeaseGamePlayerController.h
 D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Inc\RealeaseGame\RealeaseGamePlayerController.generated.h
 >>>>>>> 3f755f4... Added simple building system
+=======
+D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h
+d:\project 3rd quartile\realeasegame\source\realeasegame\RealeaseGamePlayerController.h
+D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Inc\RealeaseGame\RealeaseGamePlayerController.generated.h
+>>>>>>> Sebi
 D:\Unreal\UE_4.24\Engine\Source\Runtime\AIModule\Classes\Blueprint/AIBlueprintHelperLibrary.h
 D:\Unreal\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIBlueprintHelperLibrary.generated.h
 D:\Unreal\UE_4.24\Engine\Source\Runtime/Engine/Classes/Components/DecalComponent.h
@@ -23,6 +29,7 @@ D:\Unreal\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
 D:\Unreal\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
 D:\Unreal\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
 D:\Unreal\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+<<<<<<< HEAD
 <<<<<<< HEAD
 D:\startup\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Inc\RealeaseGame\RealeaseGameCharacter.generated.h
 =======
@@ -49,3 +56,6 @@ E:\BaseDefenseGit\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Inc\Re
 =======
 D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Inc\RealeaseGame\RealeaseGameCharacter.generated.h
 >>>>>>> 3f755f4... Added simple building system
+=======
+D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Inc\RealeaseGame\RealeaseGameCharacter.generated.h
+>>>>>>> Sebi
