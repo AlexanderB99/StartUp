@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\RealeaseGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{0897D165-3199-4B69-9E7E-15E87AE4C7D3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RealeaseGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RealeaseGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{8F383829-C579-4B23-9DC4-DECE6C3EB369}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\RealeaseGame">
+      <UniqueIdentifier>{970DE6D6-E0B7-415B-9065-C8A7666B339B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RealeaseGame\RealeaseGame.Build.cs">
+      <Filter>Source\RealeaseGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\RealeaseGame\RealeaseGame.cpp">
+      <Filter>Source\RealeaseGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RealeaseGame\RealeaseGame.h">
+      <Filter>Source\RealeaseGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RealeaseGame\RealeaseGameCharacter.cpp">
+      <Filter>Source\RealeaseGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RealeaseGame\RealeaseGameCharacter.h">
+      <Filter>Source\RealeaseGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RealeaseGame\RealeaseGameGameMode.cpp">
+      <Filter>Source\RealeaseGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RealeaseGame\RealeaseGameGameMode.h">
+      <Filter>Source\RealeaseGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RealeaseGame\RealeaseGamePlayerController.cpp">
+      <Filter>Source\RealeaseGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RealeaseGame\RealeaseGamePlayerController.h">
+      <Filter>Source\RealeaseGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

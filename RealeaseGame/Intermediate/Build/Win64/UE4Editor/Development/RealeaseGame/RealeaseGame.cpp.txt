@@ -1,2 +1,2 @@
-F:\ProjectStartUp\StartUp\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h
-f:\projectstartup\startup\realeasegame\source\realeasegame\RealeaseGame.h
+D:\Project 3rd quartile\RealeaseGame\Intermediate\Build\Win64\UE4Editor\Development\RealeaseGame\Definitions.RealeaseGame.h
+d:\project 3rd quartile\realeasegame\source\realeasegame\RealeaseGame.h
