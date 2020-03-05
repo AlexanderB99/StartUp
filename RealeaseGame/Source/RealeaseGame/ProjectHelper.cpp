@@ -2,7 +2,7 @@
 
 
 #include "ProjectHelper.h"
-#include "Actor.h"
+#include "GameFramework/Actor.h"
 
 // Sets default values for this component's properties
 UProjectHelper::UProjectHelper()
@@ -26,7 +26,7 @@ void UProjectHelper::BeginPlay()
 {
 	
 	Super::BeginPlay();
-
+	
 	// ...
 	
 }
